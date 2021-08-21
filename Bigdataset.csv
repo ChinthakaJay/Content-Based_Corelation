@@ -1,0 +1,1001 @@
+InvoiceDate,InvoiceNo,CustomerID,Age,Gender,JobRole,Province,Category,SubCategory,ItemName,order rate
+12/09/2011 12:50,581587,12680,30,Female,Doctor,North Central Province,Sports,Cricket,Shoes - Jazba,2
+12/09/2011 12:50,581587,12680,30,Female,Doctor,North Central Province,Sports,Cricket,Shoes - Puma,2
+12/09/2011 12:50,581587,12680,30,Female,Doctor,North Central Province,Sports,Cricket,Sports Bags - Nike,1
+12/09/2011 12:50,581587,12680,30,Female,Doctor,North Central Province,Sports,Cricket,Bats - Kookaburra,2
+12/09/2011 12:50,581587,12680,30,Female,Doctor,North Central Province,Sports,Cricket,Gloves & Pads - STANFORD,3
+12/09/2011 12:50,581587,12680,30,Female,Doctor,North Central Province,Sports,Cricket,Shoes - Jazba,6
+12/09/2011 12:50,581587,12680,30,Female,Doctor,North Central Province,Sports,Cricket,Bats - Kookaburra,1
+12/09/2011 12:50,581587,12680,30,Female,Doctor,North Central Province,Sports,Cricket,Balls - Spartan Sports,3
+12/09/2011 12:50,581587,12680,30,Female,Doctor,North Central Province,Sports,Cricket,Other - Stump,2
+12/09/2011 12:50,581587,12680,30,Female,Doctor,North Central Province,Sports,Cricket,Shoes - Adidas,3
+12/09/2011 12:50,581587,12680,30,Female,Doctor,North Central Province,Sports,Cricket,Other - Bail,1
+12/09/2011 12:50,581587,12680,30,Female,Doctor,North Central Province,Sports,Cricket,Gloves & Pads - KAY GEE,3
+12/09/2011 12:50,581587,12680,30,Female,Doctor,North Central Province,Sports,Cricket,Balls - Spartan Sports,3
+12/09/2011 12:50,581587,12680,30,Female,Doctor,North Central Province,Sports,Cricket,Balls - Spartan Sports,4
+12/09/2011 12:50,581587,12680,30,Female,Doctor,North Central Province,Sports,Cricket,Sports Bags - Puma,1
+12/09/2011 12:49,581586,13113,25,Male,Software Engineer,Western Province,Sports,Cricket,Bats - Kookaburra,6
+12/09/2011 12:49,581586,13113,25,Male,Software Engineer,Western Province,Sports,Cricket,Balls - Spartan Sports,1
+12/09/2011 12:49,581586,13113,25,Male,Software Engineer,Western Province,Sports,Cricket,Shoes - Jazba,6
+12/09/2011 12:49,581586,13113,25,Male,Software Engineer,Western Province,Sports,Cricket,Gloves & Pads - KAY GEE,1
+12/09/2011 12:31,581585,15804,52,Male,Sports Master,Northern Province,Sports,Cricket,Balls - COSCO,2
+12/09/2011 12:31,581585,15804,52,Male,Sports Master,Northern Province,Sports,Cricket,Bats - Kookaburra,1
+12/09/2011 12:31,581585,15804,52,Male,Sports Master,Northern Province,Sports,Cricket,Shoes - Jazba,3
+12/09/2011 12:31,581585,15804,52,Male,Sports Master,Northern Province,Sports,Cricket,Bats - Sareen Sports,3
+12/09/2011 12:31,581585,15804,52,Male,Sports Master,Northern Province,Sports,Cricket,Bats - Sareen Sports,2
+12/09/2011 12:31,581585,15804,52,Male,Sports Master,Northern Province,Sports,Cricket,Bats - Sareen Sports,1
+12/09/2011 12:31,581585,15804,52,Male,Sports Master,Northern Province,Sports,Cricket,Sports Bags - Puma,3
+12/09/2011 12:31,581585,15804,52,Male,Sports Master,Northern Province,Sports,Cricket,Balls - Spartan Sports,1
+12/09/2011 12:31,581585,15804,52,Male,Sports Master,Northern Province,Sports,Cricket,Bats - Gray-Nicolls,4
+12/09/2011 12:31,581585,15804,52,Male,Sports Master,Northern Province,Sports,Cricket,Gloves & Pads - YONEX,5
+12/09/2011 12:31,581585,15804,52,Male,Sports Master,Northern Province,Sports,Cricket,Other Stump - Natural,3
+12/09/2011 12:31,581585,15804,52,Male,Sports Master,Northern Province,Sports,Cricket,Shoes - Adidas,2
+12/09/2011 12:31,581585,15804,52,Male,Sports Master,Northern Province,Sports,Cricket,Other - Bail,2
+12/09/2011 12:31,581585,15804,52,Male,Sports Master,Northern Province,Sports,Cricket,Bats - Gray-Nicolls,3
+12/09/2011 12:31,581585,15804,52,Male,Sports Master,Northern Province,Sports,Cricket,Bats - Sanspariel Greenlands,1
+12/09/2011 12:31,581585,15804,52,Male,Sports Master,Northern Province,Sports,Cricket,Bats - Sanspariel Greenlands,5
+12/09/2011 12:31,581585,15804,52,Male,Sports Master,Northern Province,Sports,Cricket,Bats - Spartan Sports,1
+12/09/2011 12:31,581585,15804,52,Male,Sports Master,Northern Province,Sports,Cricket,Balls - Spartan Sports,2
+12/09/2011 12:31,581585,15804,52,Male,Sports Master,Northern Province,Sports,Cricket,Gloves & Pads - YONEX,1
+12/09/2011 12:31,581585,15804,52,Male,Sports Master,Northern Province,Sports,Cricket,Bats - Gunn and Moore ,2
+12/09/2011 12:31,581585,15804,52,Male,Sports Master,Northern Province,Sports,Cricket,Sports Bags - Puma,2
+12/09/2011 12:25,581584,13777,26,Female,Teacher,Western Province,Sports,Cricket,Shoes - Gray Nicolls,3
+12/09/2011 12:25,581584,13777,26,Female,Teacher,Western Province,Sports,Cricket,Shoes - Gray Nicolls,2
+12/09/2011 12:23,581583,13777,26,Female,Teacher,Western Province,Sports,Cricket,Shoes - Gray Nicolls,1
+12/09/2011 12:23,581583,13777,26,Female,Teacher,Western Province,Sports,Cricket,Other - Bail,1
+12/09/2011 12:21,581582,17581,30,Female,House Wife,Western Province,Sports,Cricket,Balls - Spartan Sports,5
+12/09/2011 12:21,581582,17581,30,Female,House Wife,Western Province,Sports,Cricket,Other Stump - Natural,2
+12/09/2011 12:20,581580,12748,35,Male,Electrician,Western Province,Sports,Cricket,Gloves & Pads - STANFORD,1
+12/09/2011 12:20,581580,12748,35,Male,Electrician,Western Province,Sports,Cricket,Shoes - Gray Nicolls,2
+12/09/2011 12:20,581580,12748,35,Male,Electrician,Western Province,Sports,Cricket,Bats - Sareen Sports,1
+12/09/2011 12:20,581580,12748,35,Male,Electrician,Western Province,Sports,Cricket,Other - Stump - Plastic,1
+12/09/2011 12:20,581580,12748,35,Male,Electrician,Western Province,Sports,Cricket,Bats - Beat All Sports,3
+12/09/2011 12:20,581580,12748,35,Male,Electrician,Western Province,Sports,Cricket,Bats - Beat All Sports,1
+12/09/2011 12:20,581580,12748,35,Male,Electrician,Western Province,Sports,Cricket,Gloves & Pads - YONEX,3
+12/09/2011 12:20,581580,12748,35,Male,Electrician,Western Province,Sports,Cricket,Balls - Spartan Sports,3
+12/09/2011 12:20,581580,12748,35,Male,Electrician,Western Province,Sports,Cricket,Other - Bail,1
+12/09/2011 12:20,581580,12748,35,Male,Electrician,Western Province,Sports,Cricket,Sports Bags - Nike,5
+12/09/2011 12:20,581580,12748,35,Male,Electrician,Western Province,Sports,Cricket,Bats - Beat All Sports,3
+12/09/2011 12:20,581580,12748,35,Male,Electrician,Western Province,Sports,Cricket,Gloves & Pads - STANFORD,2
+12/09/2011 12:20,581580,12748,35,Male,Electrician,Western Province,Sports,Cricket,Bats - Beat All Sports,3
+12/09/2011 12:20,581580,12748,35,Male,Electrician,Western Province,Sports,Cricket,Other Stump - Marigold,4
+12/09/2011 12:20,581580,12748,35,Male,Electrician,Western Province,Sports,Cricket,Shoes - Asicsl,3
+12/09/2011 12:20,581580,12748,35,Male,Electrician,Western Province,Sports,Cricket,Other - Stump -Wood,6
+12/09/2011 12:20,581580,12748,35,Male,Electrician,Western Province,Sports,Cricket,Balls - AVM,1
+12/09/2011 12:20,581580,12748,35,Male,Electrician,Western Province,Sports,Cricket,Shoes - Asicsl,2
+12/09/2011 12:20,581580,12748,35,Male,Electrician,Western Province,Sports,Cricket,Bats - Sanspariel Greenlands,1
+12/09/2011 12:20,581580,12748,35,Male,Electrician,Western Province,Sports,Cricket,Gloves & Pads - KAY GEE,3
+12/09/2011 12:20,581580,12748,35,Male,Electrician,Western Province,Sports,Cricket,Shoes - Asicsl,3
+12/09/2011 12:20,581580,12748,35,Male,Electrician,Western Province,Sports,Cricket,Other Stump - Plastic,2
+12/09/2011 12:20,581580,12748,35,Male,Electrician,Western Province,Sports,Cricket,Bats - Sanspariel Greenlands,1
+12/09/2011 12:20,581580,12748,35,Male,Electrician,Western Province,Sports,Cricket,Other - Bail,3
+12/09/2011 12:20,581581,17581,45,Female,Doctor,Eastern Province,Sports,Cricket,Sports Bags - Diesel,1
+12/09/2011 12:20,581581,17581,45,Female,Doctor,Eastern Province,Sports,Cricket,Sports Bags - Puma,4
+12/09/2011 12:20,581581,17581,45,Female,Doctor,Eastern Province,Sports,Cricket,Other Stump - Wood,5
+12/09/2011 12:19,581579,17581,45,Female,Doctor,Eastern Province,Sports,Cricket,Bats - Gray-Nicolls,5
+12/09/2011 12:19,581579,17581,45,Female,Doctor,Eastern Province,Sports,Cricket,Balls - AVM,3
+12/09/2011 12:19,581579,17581,45,Female,Doctor,Eastern Province,Sports,Cricket,Other - Bail,3
+12/09/2011 12:19,581579,17581,45,Female,Doctor,Eastern Province,Sports,Cricket,Shoes - Asicsl,1
+12/09/2011 12:19,581579,17581,45,Female,Doctor,Eastern Province,Sports,Cricket,Other - Bail,1
+12/09/2011 12:19,581579,17581,45,Female,Doctor,Eastern Province,Sports,Cricket,Bats -Beat All Sports,3
+12/09/2011 12:19,581579,17581,45,Female,Doctor,Eastern Province,Sports,Cricket,Gloves & Pads - KAY GEE,3
+12/09/2011 12:19,581579,17581,45,Female,Doctor,Eastern Province,Sports,Cricket,Sports Bags - Nike,8
+12/09/2011 12:19,581579,17581,45,Female,Doctor,Eastern Province,Sports,Cricket,Bats - Gray-Nicolls,6
+12/09/2011 12:19,581579,17581,45,Female,Doctor,Eastern Province,Sports,Cricket,Other Stump - Wood,1
+12/09/2011 12:19,581579,17581,45,Female,Doctor,Eastern Province,Sports,Cricket,Balls - AVM,6
+12/09/2011 12:19,581579,17581,45,Female,Doctor,Eastern Province,Sports,Cricket,Balls - DSCl,2
+12/09/2011 12:19,581579,17581,45,Female,Doctor,Eastern Province,Sports,Cricket,Shoes - Asicsl,4
+12/09/2011 12:19,581579,17581,45,Female,Doctor,Eastern Province,Sports,Cricket,Gloves & Pads - YONEX,3
+12/09/2011 12:19,581579,17581,45,Female,Doctor,Eastern Province,Sports,Cricket,Other - Bail,4
+12/09/2011 12:19,581579,17581,45,Female,Doctor,Eastern Province,Sports,Cricket,Bats - Spartan Sports,4
+12/09/2011 12:19,581579,17581,45,Female,Doctor,Eastern Province,Sports,Cricket,Balls - DSCl,1
+12/09/2011 12:19,581579,17581,45,Female,Doctor,Eastern Province,Sports,Cricket,Bats - Spartan Sports,3
+12/09/2011 12:19,581579,17581,45,Female,Doctor,Eastern Province,Sports,Cricket,Gloves & Pads - KAY GEE,3
+12/09/2011 12:19,581579,17581,45,Female,Doctor,Eastern Province,Sports,Cricket,Sports Bags - Nike,2
+12/09/2011 12:19,581579,17581,45,Female,Doctor,Eastern Province,Sports,Cricket,Balls - DSCl,1
+12/09/2011 12:19,581579,17581,45,Female,Doctor,Eastern Province,Sports,Cricket,Balls - SG,3
+12/09/2011 12:19,581579,17581,45,Female,Doctor,Eastern Province,Sports,Cricket,Other - Stump,1
+12/09/2011 12:19,581579,17581,45,Female,Doctor,Eastern Province,Sports,Cricket,Shoes - Adidas,5
+12/09/2011 12:19,581579,17581,45,Female,Doctor,Eastern Province,Sports,Cricket,Gloves & Pads - STANFORD,1
+12/09/2011 12:19,581579,17581,45,Female,Doctor,Eastern Province,Sports,Cricket,Bats - Spartan Sports,5
+12/09/2011 12:19,581579,17581,45,Female,Doctor,Eastern Province,Sports,Cricket,Balls - DSCl,2
+12/09/2011 12:19,581579,17581,45,Female,Doctor,Eastern Province,Sports,Cricket,Shoes - Jazba,2
+12/09/2011 12:19,581579,17581,45,Female,Doctor,Eastern Province,Sports,Cricket,Shoes - Puma,3
+12/09/2011 12:19,581579,17581,45,Female,Doctor,Eastern Province,Sports,Cricket,Sports Bags - Nike,4
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Bats - Kookaburra,3
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Gloves & Pads - STANFORD,6
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Shoes - Jazba,3
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Bats - Kookaburra,2
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Balls - Spartan Sports,1
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Other - Stump,5
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Shoes - Adidas,3
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Other - Bail,1
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Gloves & Pads - KAY GEE,6
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Balls - Spartan Sports,2
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Balls - Spartan Sports,4
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Sports Bags - Puma,3
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Bats - Kookaburra,4
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Balls - Spartan Sports,3
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Shoes - Jazba,1
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Gloves & Pads - KAY GEE,6
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Balls - COSCO,1
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Bats - Kookaburra,6
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Shoes - Jazba,2
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Bats - Sareen Sports,2
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Bats - Sareen Sports,1
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Bats - Sareen Sports,4
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Sports Bags - Puma,2
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Balls - Spartan Sports,2
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Bats - Gray-Nicolls,1
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Gloves & Pads - YONEX,5
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Other Stump - Natural,3
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Shoes - Adidas,2
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Other - Bail,6
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Bats - Gray-Nicolls,1
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Bats - Sanspariel Greenlands,2
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Bats - Sanspariel Greenlands,3
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Bats - Spartan Sports,8
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Balls - Spartan Sports,2
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Gloves & Pads - YONEX,3
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Bats - Gunn and Moore ,3
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Sports Bags - Puma,3
+12/09/2011 12:16,581578,12713,35,Male,Software Engineer,Southern Province,Sports,Cricket,Shoes - Gray Nicolls,2
+12/09/2011 12:09,581574,12526,45,Male,Cricketer,Uva Province,Sports,Cricket,Shoes - Gray Nicolls,3
+12/09/2011 12:09,581574,12526,45,Male,Cricketer,Uva Province,Sports,Cricket,Shoes - Gray Nicolls,4
+12/09/2011 12:09,581574,12526,45,Male,Cricketer,Uva Province,Sports,Cricket,Other - Bail,2
+12/09/2011 12:09,581574,12526,45,Male,Cricketer,Uva Province,Sports,Cricket,Balls - Spartan Sports,7
+12/09/2011 12:09,581574,12526,45,Male,Cricketer,Uva Province,Sports,Cricket,Other Stump - Natural,2
+12/09/2011 12:09,581574,12526,45,Male,Cricketer,Uva Province,Sports,Cricket,Gloves & Pads - STANFORD,2
+12/09/2011 12:09,581574,12526,45,Male,Cricketer,Uva Province,Sports,Cricket,Shoes - Gray Nicolls,2
+12/09/2011 12:09,581574,12526,45,Male,Cricketer,Uva Province,Sports,Cricket,Bats - Sareen Sports,3
+12/09/2011 12:09,581574,12526,45,Male,Cricketer,Uva Province,Sports,Cricket,Other - Stump - Plastic,2
+12/09/2011 12:09,581574,12526,45,Male,Cricketer,Uva Province,Sports,Cricket,Bats - Beat All Sports,4
+12/09/2011 12:09,581574,12526,45,Male,Cricketer,Uva Province,Sports,Cricket,Bats - Beat All Sports,5
+12/09/2011 12:09,581574,12526,45,Male,Cricketer,Uva Province,Sports,Cricket,Gloves & Pads - YONEX,1
+12/09/2011 12:09,581574,12526,45,Male,Cricketer,Uva Province,Sports,Cricket,Balls - Spartan Sports,1
+12/09/2011 12:08,581572,16705,29,Female,Teacher,Western Province,Sports,Cricket,Other - Bail,4
+12/09/2011 12:08,581572,16705,30,Female,Teacher,Western Province,Sports,Cricket,Sports Bags - Nike,2
+12/09/2011 12:08,581572,16705,31,Female,Teacher,Western Province,Sports,Cricket,Bats - Beat All Sports,5
+12/09/2011 12:08,581572,16705,32,Female,Teacher,Western Province,Sports,Cricket,Gloves & Pads - STANFORD,2
+12/09/2011 12:00,581571,15311,18,Female,Student,Western Province,Sports,Cricket,Bats - Beat All Sports,1
+12/09/2011 12:00,581571,15311,18,Female,Student,Western Province,Sports,Cricket,Other Stump - Marigold,1
+12/09/2011 12:00,581571,15311,18,Female,Student,Western Province,Sports,Cricket,Shoes - Asicsl,3
+12/09/2011 12:00,581571,15311,18,Female,Student,Western Province,Sports,Cricket,Other - Stump -Wood,2
+12/09/2011 12:00,581571,15311,18,Female,Student,Western Province,Sports,Cricket,Balls - AVM,2
+12/09/2011 12:00,581571,15311,18,Female,Student,Western Province,Sports,Cricket,Shoes - Asicsl,2
+12/09/2011 12:00,581571,15311,18,Female,Student,Western Province,Sports,Cricket,Bats - Sanspariel Greenlands,2
+12/09/2011 12:00,581571,15311,18,Female,Student,Western Province,Sports,Cricket,Gloves & Pads - KAY GEE,4
+12/09/2011 12:00,581571,15311,18,Female,Student,Western Province,Sports,Cricket,Shoes - Asicsl,5
+12/09/2011 12:00,581571,15311,18,Female,Student,Western Province,Sports,Cricket,Other Stump - Plastic,2
+12/09/2011 12:00,581571,15311,18,Female,Student,Western Province,Sports,Cricket,Bats - Sanspariel Greenlands,3
+12/09/2011 12:00,581571,15311,18,Female,Student,Western Province,Sports,Cricket,Other - Bail,4
+12/09/2011 12:00,581571,15311,18,Female,Student,Western Province,Sports,Cricket,Sports Bags - Diesel,3
+12/09/2011 12:00,581571,15311,18,Female,Student,Western Province,Sports,Cricket,Sports Bags - Puma,5
+12/09/2011 12:00,581571,15311,18,Female,Student,Western Province,Sports,Cricket,Other Stump - Wood,4
+12/09/2011 12:00,581571,15311,18,Female,Student,Western Province,Sports,Cricket,Bats - Gray-Nicolls,2
+12/09/2011 12:00,581571,15311,18,Female,Student,Western Province,Sports,Cricket,Balls - AVM,2
+12/09/2011 12:00,581571,15311,18,Female,Student,Western Province,Sports,Cricket,Other - Bail,3
+12/09/2011 12:00,581571,15311,18,Female,Student,Western Province,Sports,Cricket,Shoes - Asicsl,2
+12/09/2011 12:00,581571,15311,18,Female,Student,Western Province,Sports,Cricket,Other - Bail,2
+12/09/2011 11:59,581570,12662,29,Male,Engineer,Southern Province,Sports,Cricket,Bats -Beat All Sports,4
+12/09/2011 11:59,581570,12662,29,Male,Engineer,Southern Province,Sports,Cricket,Gloves & Pads - KAY GEE,3
+12/09/2011 11:59,581570,12662,29,Male,Engineer,Southern Province,Sports,Cricket,Sports Bags - Nike,1
+12/09/2011 11:59,581570,12662,29,Male,Engineer,Southern Province,Sports,Cricket,Bats - Gray-Nicolls,6
+12/09/2011 11:59,581570,12662,29,Male,Engineer,Southern Province,Sports,Cricket,Other Stump - Wood,2
+12/09/2011 11:59,581570,12662,29,Male,Engineer,Southern Province,Sports,Cricket,Balls - AVM,2
+12/09/2011 11:59,581570,12662,29,Male,Engineer,Southern Province,Sports,Cricket,Balls - DSCl,2
+12/09/2011 11:59,581570,12662,29,Male,Engineer,Southern Province,Sports,Cricket,Shoes - Asicsl,4
+12/09/2011 11:59,581570,12662,29,Male,Cricketer,Southern Province,Sports,Cricket,Gloves & Pads - YONEX,2
+12/09/2011 11:59,581570,12662,29,Male,Engineer,Southern Province,Sports,Cricket,Other - Bail,3
+12/09/2011 11:59,581570,12662,29,Male,Engineer,Southern Province,Sports,Cricket,Bats - Spartan Sports,2
+12/09/2011 11:59,581570,12662,29,Male,Engineer,Southern Province,Sports,Cricket,Balls - DSCl,3
+12/09/2011 11:59,581570,12662,29,Male,Engineer,Southern Province,Sports,Cricket,Bats - Spartan Sports,3
+12/09/2011 11:58,C581569,17315,36,Male,Security Officer,Central Province,Sports,Cricket,Gloves & Pads - KAY GEE,2
+12/09/2011 11:58,C581569,17315,36,Male,Security Officer,Central Province,Sports,Cricket,Sports Bags - Nike,6
+12/09/2011 11:57,C581568,15311,20,Male,Student,Central Province,Sports,Cricket,Balls - DSCl,2
+12/09/2011 11:56,581567,16626,28,Male,Cricketer,Central Province,Sports,Cricket,Balls - SG,2
+12/09/2011 11:56,581567,16626,28,Male,Cricketer,Central Province,Sports,Cricket,Other - Stump,3
+12/09/2011 11:56,581567,16626,28,Male,Cricketer,Central Province,Sports,Cricket,Shoes - Adidas,3
+12/09/2011 11:56,581567,16626,28,Male,Cricketer,Central Province,Sports,Cricket,Gloves & Pads - STANFORD,4
+12/09/2011 11:56,581567,16626,28,Male,Cricketer,Central Province,Sports,Cricket,Bats - Spartan Sports,2
+12/09/2011 11:56,581567,16626,28,Male,Cricketer,Central Province,Sports,Cricket,Balls - DSCl,3
+12/09/2011 11:56,581567,16626,28,Male,Cricketer,Central Province,Sports,Cricket,Shoes - Jazba,2
+12/09/2011 11:56,581567,16626,28,Male,Cricketer,Central Province,Sports,Cricket,Shoes - Puma,2
+12/09/2011 11:56,581567,16626,28,Male,Cricketer,Central Province,Sports,Cricket,Sports Bags - Nike,1
+12/09/2011 11:56,581567,16626,28,Male,Cricketer,Central Province,Sports,Cricket,Bats - Kookaburra,2
+12/09/2011 11:56,581567,16626,28,Male,Cricketer,Central Province,Sports,Cricket,Gloves & Pads - STANFORD,3
+12/09/2011 11:56,581567,16626,28,Male,Cricketer,Central Province,Sports,Cricket,Shoes - Jazba,6
+12/09/2011 11:50,581566,18102,31,Female,Undergraduate,Uva Province,Sports,Cricket,Bats - Kookaburra,1
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Balls - Spartan Sports,3
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Other - Stump,2
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Shoes - Adidas,3
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Other - Bail,1
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Gloves & Pads - KAY GEE,3
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Balls - Spartan Sports,3
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Balls - Spartan Sports,4
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Sports Bags - Puma,1
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Bats - Kookaburra,6
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Balls - Spartan Sports,1
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Shoes - Jazba,6
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Gloves & Pads - KAY GEE,1
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Balls - COSCO,2
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Bats - Kookaburra,1
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Shoes - Jazba,3
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Bats - Sareen Sports,3
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Bats - Sareen Sports,2
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Bats - Sareen Sports,1
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Sports Bags - Puma,3
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Balls - Spartan Sports,1
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Bats - Gray-Nicolls,4
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Gloves & Pads - YONEX,5
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Other Stump - Natural,3
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Shoes - Adidas,2
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Other - Bail,2
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Bats - Gray-Nicolls,3
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Bats - Sanspariel Greenlands,1
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Bats - Sanspariel Greenlands,5
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Bats - Spartan Sports,1
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Balls - Spartan Sports,2
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Gloves & Pads - YONEX,1
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Bats - Gunn and Moore ,2
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Sports Bags - Puma,2
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Shoes - Gray Nicolls,3
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Shoes - Gray Nicolls,2
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Shoes - Gray Nicolls,1
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Other - Bail,1
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Balls - Spartan Sports,5
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Other Stump - Natural,2
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Gloves & Pads - STANFORD,1
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Shoes - Gray Nicolls,2
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Bats - Sareen Sports,1
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Other - Stump - Plastic,1
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Bats - Beat All Sports,3
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Bats - Beat All Sports,1
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Gloves & Pads - YONEX,3
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Balls - Spartan Sports,3
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Other - Bail,1
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Sports Bags - Nike,5
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Bats - Beat All Sports,3
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Gloves & Pads - STANFORD,2
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Bats - Beat All Sports,3
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Other Stump - Marigold,4
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Shoes - Asicsl,3
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Other - Stump -Wood,6
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Balls - AVM,1
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Shoes - Asicsl,2
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Bats - Sanspariel Greenlands,1
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Gloves & Pads - KAY GEE,3
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Shoes - Asicsl,3
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Other Stump - Plastic,2
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Bats - Sanspariel Greenlands,1
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Other - Bail,3
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Sports Bags - Diesel,1
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Sports Bags - Puma,4
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Other Stump - Wood,5
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Bats - Gray-Nicolls,5
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Balls - AVM,3
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Other - Bail,3
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Shoes - Asicsl,1
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Other - Bail,1
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Bats -Beat All Sports,3
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Gloves & Pads - KAY GEE,3
+12/09/2011 11:34,581538,14446,45,Female,House Wife,Uva Province,Sports,Cricket,Sports Bags - Nike,8
+12/09/2011 11:26,581516,14422,34,Male,Entrepreneur,Uva Province,Sports,Cricket,Bats - Gray-Nicolls,6
+12/09/2011 11:26,581516,14422,34,Male,Entrepreneur,Uva Province,Sports,Cricket,Other Stump - Wood,1
+12/09/2011 11:26,581516,14422,34,Male,Entrepreneur,Uva Province,Sports,Cricket,Balls - AVM,6
+12/09/2011 11:26,581516,14422,34,Male,Entrepreneur,Uva Province,Sports,Cricket,Balls - DSCl,2
+12/09/2011 11:26,581516,14422,34,Male,Entrepreneur,Uva Province,Sports,Cricket,Shoes - Asicsl,4
+12/09/2011 11:26,581516,14422,34,Male,Entrepreneur,Uva Province,Sports,Cricket,Gloves & Pads - YONEX,3
+12/09/2011 11:26,581516,14422,34,Male,Entrepreneur,Uva Province,Sports,Cricket,Other - Bail,4
+12/09/2011 11:26,581516,14422,34,Male,Entrepreneur,Uva Province,Sports,Cricket,Bats - Spartan Sports,4
+12/09/2011 11:26,581516,14422,34,Male,Entrepreneur,Uva Province,Sports,Cricket,Balls - DSCl,1
+12/09/2011 11:26,581516,14422,34,Male,Entrepreneur,Uva Province,Sports,Cricket,Bats - Spartan Sports,3
+12/09/2011 11:26,581516,14422,34,Male,Entrepreneur,Uva Province,Sports,Cricket,Gloves & Pads - KAY GEE,3
+12/09/2011 11:26,581516,14422,34,Male,Entrepreneur,Uva Province,Sports,Cricket,Sports Bags - Nike,2
+12/09/2011 11:26,581516,14422,34,Male,Entrepreneur,Uva Province,Sports,Cricket,Balls - DSCl,1
+12/09/2011 11:26,581516,14422,34,Male,Entrepreneur,Uva Province,Sports,Cricket,Balls - SG,3
+12/09/2011 11:26,581516,14422,34,Male,Entrepreneur,Uva Province,Sports,Cricket,Other - Stump,1
+12/09/2011 11:20,581514,17754,38,Female,Nurse,Western Province,Sports,Cricket,Shoes - Adidas,5
+12/09/2011 11:20,581514,17754,38,Female,Nurse,Western Province,Sports,Cricket,Gloves & Pads - STANFORD,1
+12/09/2011 11:20,581514,17754,38,Female,Nurse,Western Province,Sports,Cricket,Bats - Spartan Sports,5
+12/09/2011 11:20,581514,17754,38,Female,Nurse,Western Province,Sports,Cricket,Balls - DSCl,2
+12/09/2011 11:20,581514,17754,38,Female,Nurse,Western Province,Sports,Cricket,Shoes - Jazba,2
+12/09/2011 11:20,581514,17754,38,Female,Nurse,Western Province,Sports,Cricket,Shoes - Puma,3
+12/09/2011 11:20,581514,17754,38,Female,Nurse,Western Province,Sports,Cricket,Sports Bags - Nike,4
+12/09/2011 11:20,581514,17754,38,Female,Nurse,Western Province,Sports,Cricket,Bats - Kookaburra,3
+12/09/2011 11:20,581514,17754,38,Female,Nurse,Western Province,Sports,Cricket,Gloves & Pads - STANFORD,6
+12/09/2011 11:20,581514,17754,38,Female,Nurse,Western Province,Sports,Cricket,Shoes - Jazba,3
+12/09/2011 11:20,581514,17754,38,Female,Nurse,Western Province,Sports,Cricket,Bats - Kookaburra,2
+12/09/2011 11:20,581514,17754,38,Female,Nurse,Western Province,Sports,Cricket,Balls - Spartan Sports,1
+12/09/2011 11:20,581514,17754,38,Female,Nurse,Western Province,Sports,Cricket,Other - Stump,5
+12/09/2011 11:20,581514,17754,38,Female,Nurse,Western Province,Sports,Cricket,Shoes - Adidas,3
+12/09/2011 11:20,581514,17754,38,Female,Nurse,Western Province,Sports,Cricket,Other - Bail,1
+12/09/2011 11:20,581514,17754,38,Female,Nurse,Western Province,Sports,Cricket,Gloves & Pads - KAY GEE,6
+12/09/2011 11:20,581514,17754,38,Female,Nurse,Western Province,Sports,Cricket,Balls - Spartan Sports,2
+12/09/2011 11:20,581514,17754,38,Female,Nurse,Western Province,Sports,Cricket,Balls - Spartan Sports,4
+12/09/2011 11:20,581514,17754,38,Female,Nurse,Western Province,Sports,Cricket,Sports Bags - Puma,3
+12/09/2011 11:20,581514,17754,38,Female,Nurse,Western Province,Sports,Cricket,Bats - Kookaburra,4
+12/09/2011 11:20,581514,17754,38,Female,Nurse,Western Province,Sports,Cricket,Balls - Spartan Sports,3
+12/09/2011 11:20,581514,17754,38,Female,Nurse,Western Province,Sports,Cricket,Shoes - Jazba,1
+12/09/2011 11:20,581514,17754,38,Female,Nurse,Western Province,Sports,Cricket,Gloves & Pads - KAY GEE,6
+12/09/2011 11:20,581514,17754,38,Female,Nurse,Western Province,Sports,Cricket,Balls - COSCO,1
+12/09/2011 10:51,581502,15910,35,Male,Accountant,Uva Province Province,Sports,Cricket,Bats - Kookaburra,6
+12/09/2011 10:51,581502,15910,35,Male,Accountant,Uva Province Province,Sports,Cricket,Shoes - Jazba,2
+12/09/2011 10:51,581502,15910,35,Male,Accountant,Uva Province Province,Sports,Cricket,Bats - Sareen Sports,2
+12/09/2011 10:51,581502,15910,35,Male,Accountant,Uva Province Province,Sports,Cricket,Bats - Sareen Sports,1
+12/09/2011 10:51,581502,15910,35,Male,Accountant,Uva Province Province,Sports,Cricket,Bats - Sareen Sports,4
+12/09/2011 10:51,581502,15910,35,Male,Accountant,Uva Province Province,Sports,Cricket,Sports Bags - Puma,2
+12/09/2011 10:51,581502,15910,35,Male,Accountant,Uva Province Province,Sports,Cricket,Balls - Spartan Sports,2
+12/09/2011 10:51,581502,15910,35,Male,Accountant,Uva Province Province,Sports,Cricket,Bats - Gray-Nicolls,1
+12/09/2011 10:51,581502,15910,35,Male,Accountant,Uva Province Province,Sports,Cricket,Gloves & Pads - YONEX,5
+12/09/2011 10:51,581502,15910,35,Male,Accountant,Uva Province Province,Sports,Cricket,Other Stump - Natural,3
+12/09/2011 10:51,581502,15910,35,Male,Accountant,Uva Province Province,Sports,Cricket,Shoes - Adidas,2
+12/09/2011 10:51,581502,15910,35,Male,Accountant,Uva Province Province,Sports,Cricket,Other - Bail,6
+12/09/2011 10:51,581502,15910,35,Male,Accountant,Uva Province Province,Sports,Cricket,Bats - Gray-Nicolls,1
+12/09/2011 10:51,581502,15910,35,Male,Accountant,Uva Province Province,Sports,Cricket,Bats - Sanspariel Greenlands,2
+12/09/2011 10:51,581502,15910,35,Male,Accountant,Uva Province Province,Sports,Cricket,Bats - Sanspariel Greenlands,3
+12/09/2011 10:51,581502,15910,35,Male,Accountant,Uva Province Province,Sports,Cricket,Bats - Spartan Sports,8
+12/09/2011 10:51,581502,15910,35,Male,Accountant,Uva Province Province,Sports,Cricket,Balls - Spartan Sports,2
+12/09/2011 10:51,581502,15910,35,Male,Accountant,Uva Province Province,Sports,Cricket,Gloves & Pads - YONEX,3
+12/09/2011 10:51,581502,15910,35,Male,Accountant,Uva Province Province,Sports,Cricket,Bats - Gunn and Moore ,3
+12/09/2011 10:51,581502,15910,35,Male,Accountant,Uva Province Province,Sports,Cricket,Sports Bags - Puma,3
+12/09/2011 10:46,581501,12985,39,Female,Lawyer,Southern Province,Sports,Cricket,Shoes - Gray Nicolls,2
+12/09/2011 10:46,581501,12985,39,Female,Lawyer,Southern Province,Sports,Cricket,Shoes - Gray Nicolls,3
+12/09/2011 10:46,581501,12985,39,Female,Lawyer,Southern Province,Sports,Cricket,Shoes - Gray Nicolls,4
+12/09/2011 10:46,581501,12985,39,Female,Lawyer,Southern Province,Sports,Cricket,Other - Bail,2
+12/09/2011 10:46,581501,12985,39,Female,Lawyer,Southern Province,Sports,Cricket,Balls - Spartan Sports,7
+12/09/2011 10:46,581501,12985,39,Female,Lawyer,Southern Province,Sports,Cricket,Other Stump - Natural,2
+12/09/2011 10:46,581501,12985,39,Female,Lawyer,Southern Province,Sports,Cricket,Gloves & Pads - STANFORD,2
+12/09/2011 10:46,581501,12985,39,Female,Lawyer,Southern Province,Sports,Cricket,Shoes - Gray Nicolls,2
+12/09/2011 10:46,581501,12985,39,Female,Lawyer,Southern Province,Sports,Cricket,Bats - Sareen Sports,3
+12/09/2011 10:46,581501,12985,39,Female,Lawyer,Southern Province,Sports,Cricket,Other - Stump - Plastic,2
+12/09/2011 10:46,581501,12985,39,Female,Lawyer,Southern Province,Sports,Cricket,Bats - Beat All Sports,4
+12/09/2011 10:46,581501,12985,39,Female,Lawyer,Southern Province,Sports,Cricket,Bats - Beat All Sports,5
+12/09/2011 10:46,581501,12985,39,Female,Lawyer,Southern Province,Sports,Cricket,Gloves & Pads - YONEX,1
+12/09/2011 10:46,581501,12985,39,Female,Lawyer,Southern Province,Sports,Cricket,Balls - Spartan Sports,1
+12/09/2011 10:46,581501,12985,39,Female,Lawyer,Southern Province,Sports,Cricket,Other - Bail,4
+12/09/2011 10:46,581501,12985,39,Female,Lawyer,Southern Province,Sports,Cricket,Sports Bags - Nike,2
+12/09/2011 10:46,581501,12985,39,Female,Lawyer,Southern Province,Sports,Cricket,Bats - Beat All Sports,5
+12/09/2011 10:46,581501,12985,39,Female,Lawyer,Southern Province,Sports,Cricket,Gloves & Pads - STANFORD,2
+12/09/2011 10:46,581501,12985,39,Female,Lawyer,Southern Province,Sports,Cricket,Bats - Beat All Sports,1
+12/09/2011 10:46,581501,12985,39,Female,Lawyer,Southern Province,Sports,Cricket,Other Stump - Marigold,1
+12/09/2011 10:46,581501,12985,39,Female,Lawyer,Southern Province,Sports,Cricket,Shoes - Asicsl,3
+12/09/2011 10:46,581501,12985,39,Female,Lawyer,Southern Province,Sports,Cricket,Other - Stump -Wood,2
+12/09/2011 10:46,581501,12985,39,Female,Lawyer,Southern Province,Sports,Cricket,Balls - AVM,2
+12/09/2011 10:46,581501,12985,39,Female,Lawyer,Southern Province,Sports,Cricket,Shoes - Asicsl,2
+12/09/2011 10:45,581500,15344,34,Male,Scientist,Uva Province,Sports,Cricket,Bats - Sanspariel Greenlands,2
+12/09/2011 10:45,581500,15344,34,Male,Scientist,Uva Province,Sports,Cricket,Gloves & Pads - KAY GEE,4
+12/09/2011 10:45,581500,15344,34,Male,Scientist,Uva Province,Sports,Cricket,Shoes - Asicsl,5
+12/09/2011 10:28,C581499,15498,16,Male,Student,Western Province,Sports,Cricket,Other Stump - Plastic,2
+12/09/2011 10:20,581495,14051,36,Male,Plumber,Western Province,Sports,Cricket,Bats - Sanspariel Greenlands,3
+12/09/2011 10:20,581495,14051,36,Male,Plumber,Western Province,Sports,Cricket,Other - Bail,4
+12/09/2011 10:20,581495,14051,36,Male,Plumber,Western Province,Sports,Cricket,Sports Bags - Diesel,3
+12/09/2011 10:20,581495,14051,36,Male,Plumber,Western Province,Sports,Cricket,Sports Bags - Puma,3
+12/09/2011 10:20,581495,14051,36,Male,Plumber,Western Province,Sports,Cricket,Other Stump - Wood,6
+12/09/2011 10:20,581495,14051,36,Male,Plumber,Western Province,Sports,Cricket,Bats - Gray-Nicolls,1
+12/09/2011 10:20,581495,14051,36,Male,Plumber,Western Province,Sports,Cricket,Balls - AVM,3
+12/09/2011 10:20,581495,14051,36,Male,Plumber,Western Province,Sports,Cricket,Other - Bail,2
+12/09/2011 10:20,581495,14051,36,Male,Plumber,Western Province,Sports,Cricket,Shoes - Asicsl,3
+12/09/2011 10:20,581495,14051,36,Male,Plumber,Western Province,Sports,Cricket,Other - Bail,1
+12/09/2011 10:20,581495,14051,36,Male,Plumber,Western Province,Sports,Cricket,Bats -Beat All Sports,3
+12/09/2011 10:20,581495,14051,36,Male,Plumber,Western Province,Sports,Cricket,Gloves & Pads - KAY GEE,3
+12/09/2011 10:20,581495,14051,36,Male,Plumber,Western Province,Sports,Cricket,Sports Bags - Nike,4
+12/09/2011 10:20,581495,14051,36,Male,Plumber,Western Province,Sports,Cricket,Bats - Gray-Nicolls,1
+12/09/2011 10:20,581495,14051,36,Male,Plumber,Western Province,Sports,Cricket,Other Stump - Wood,6
+12/09/2011 10:20,581496,16558,27,Male,Architect,Sabaragamuwa Province,Sports,Cricket,Balls - AVM,1
+12/09/2011 10:20,581496,16558,27,Male,Architect,Sabaragamuwa Province,Sports,Cricket,Balls - DSCl,6
+12/09/2011 10:20,581496,16558,27,Male,Architect,Sabaragamuwa Province,Sports,Cricket,Shoes - Asicsl,1
+12/09/2011 10:20,581496,16558,27,Male,Architect,Sabaragamuwa Province,Sports,Cricket,Gloves & Pads - YONEX,2
+12/09/2011 10:20,581496,16558,27,Male,Architect,Sabaragamuwa Province,Sports,Cricket,Other - Bail,1
+12/09/2011 10:20,581496,16558,27,Male,Architect,Sabaragamuwa Province,Sports,Cricket,Bats - Spartan Sports,3
+12/09/2011 10:20,581496,16558,27,Male,Architect,Sabaragamuwa Province,Sports,Cricket,Balls - DSCl,3
+12/09/2011 10:20,581496,16558,27,Male,Architect,Sabaragamuwa Province,Sports,Cricket,Bats - Spartan Sports,2
+12/09/2011 10:20,581496,16558,27,Male,Architect,Sabaragamuwa Province,Sports,Cricket,Gloves & Pads - KAY GEE,1
+12/09/2011 10:20,581496,16558,27,Male,Architect,Sabaragamuwa Province,Sports,Cricket,Sports Bags - Nike,3
+12/09/2011 10:20,581496,16558,27,Male,Architect,Sabaragamuwa Province,Sports,Cricket,Balls - DSCl,1
+12/09/2011 10:20,581496,16558,27,Male,Architect,Sabaragamuwa Province,Sports,Cricket,Balls - SG,4
+12/09/2011 10:20,581496,16558,27,Male,Architect,Sabaragamuwa Province,Sports,Cricket,Other - Stump,5
+12/09/2011 10:20,581496,16558,27,Male,Architect,Sabaragamuwa Province,Sports,Cricket,Shoes - Adidas,3
+12/09/2011 10:20,581496,16558,27,Male,Architect,Sabaragamuwa Province,Sports,Cricket,Gloves & Pads - STANFORD,2
+12/09/2011 10:20,581496,16558,27,Male,Architect,Sabaragamuwa Province,Sports,Cricket,Bats - Spartan Sports,2
+12/09/2011 10:20,581496,16558,27,Male,Architect,Sabaragamuwa Province,Sports,Cricket,Balls - DSCl,3
+12/09/2011 10:20,581496,16558,27,Male,Architect,Sabaragamuwa Province,Sports,Cricket,Shoes - Jazba,1
+12/09/2011 10:20,581496,16558,27,Male,Architect,Sabaragamuwa Province,Sports,Cricket,Shoes - Puma,5
+12/09/2011 10:20,581496,16558,27,Male,Architect,Sabaragamuwa Province,Sports,Cricket,Sports Bags - Nike,1
+12/09/2011 10:20,581496,16558,27,Male,Architect,Sabaragamuwa Province,Sports,Cricket,Bats - Kookaburra,2
+12/09/2011 10:20,581496,16558,27,Male,Architect,Sabaragamuwa Province,Sports,Cricket,Gloves & Pads - STANFORD,1
+12/09/2011 10:20,581496,16558,27,Male,Architect,Sabaragamuwa Province,Sports,Cricket,Shoes - Jazba,2
+12/09/2011 10:20,581496,16558,27,Male,Architect,Sabaragamuwa Province,Sports,Cricket,Bats - Kookaburra,2
+12/09/2011 10:20,581496,16558,27,Male,Architect,Sabaragamuwa Province,Sports,Cricket,Balls - Spartan Sports,2
+12/09/2011 10:20,581496,16558,27,Male,Architect,Sabaragamuwa Province,Sports,Cricket,Other - Stump,2
+12/09/2011 10:20,581496,16558,27,Male,Architect,Sabaragamuwa Province,Sports,Cricket,Shoes - Adidas,1
+12/09/2011 10:20,581496,16558,27,Male,Architect,Sabaragamuwa Province,Sports,Cricket,Other - Bail,2
+12/09/2011 10:20,581496,16558,27,Male,Architect,Sabaragamuwa Province,Sports,Cricket,Gloves & Pads - KAY GEE,3
+12/09/2011 10:20,581496,16558,27,Male,Architect,Sabaragamuwa Province,Sports,Cricket,Balls - Spartan Sports,6
+12/09/2011 10:20,581496,16558,27,Male,Architect,Sabaragamuwa Province,Sports,Cricket,Balls - Spartan Sports,1
+12/09/2011 10:20,581496,16558,27,Male,Architect,Sabaragamuwa Province,Sports,Cricket,Sports Bags - Puma,3
+12/09/2011 10:13,581494,12518,25,Female,Software Developer,Southern Province,Sports,Cricket,Bats - Kookaburra,2
+12/09/2011 10:13,581494,12518,25,Female,Software Developer,Southern Province,Sports,Cricket,Balls - Spartan Sports,3
+12/09/2011 10:13,581494,12518,25,Female,Software Developer,Southern Province,Sports,Cricket,Shoes - Jazba,1
+12/09/2011 10:13,581494,12518,25,Female,Software Developer,Southern Province,Sports,Cricket,Gloves & Pads - KAY GEE,3
+12/09/2011 10:13,581494,12518,25,Female,Software Developer,Southern Province,Sports,Cricket,Balls - COSCO,3
+12/09/2011 10:13,581494,12518,25,Female,Software Developer,Southern Province,Sports,Cricket,Bats - Kookaburra,4
+12/09/2011 10:13,581494,12518,25,Female,Software Developer,Southern Province,Sports,Cricket,Shoes - Jazba,1
+12/09/2011 10:13,581494,12518,25,Female,Software Developer,Southern Province,Sports,Cricket,Bats - Sareen Sports,6
+12/09/2011 10:13,581494,12518,25,Female,Software Developer,Southern Province,Sports,Cricket,Bats - Sareen Sports,1
+12/09/2011 10:13,581494,12518,25,Female,Software Developer,Southern Province,Sports,Cricket,Bats - Sareen Sports,6
+12/09/2011 10:13,581494,12518,25,Female,Software Developer,Southern Province,Sports,Cricket,Sports Bags - Puma,1
+12/09/2011 10:13,581494,12518,25,Female,Software Developer,Southern Province,Sports,Cricket,Balls - Spartan Sports,2
+12/09/2011 10:13,581494,12518,25,Female,Software Developer,Southern Province,Sports,Cricket,Bats - Gray-Nicolls,1
+12/09/2011 10:13,581494,12518,25,Female,Software Developer,Southern Province,Sports,Cricket,Gloves & Pads - YONEX,3
+12/09/2011 10:13,581494,12518,25,Female,Software Developer,Southern Province,Sports,Cricket,Other Stump - Natural,3
+12/09/2011 10:13,581494,12518,25,Female,Software Developer,Southern Province,Sports,Cricket,Shoes - Adidas,2
+12/09/2011 10:13,581494,12518,25,Female,Software Developer,Southern Province,Sports,Cricket,Other - Bail,1
+12/09/2011 10:13,581494,12518,25,Female,Software Developer,Southern Province,Sports,Cricket,Bats - Gray-Nicolls,3
+12/09/2011 10:10,581493,12423,41,Female,Physician,Uva Province Province,Sports,Cricket,Bats - Sanspariel Greenlands,1
+12/09/2011 10:10,581493,12423,41,Female,Physician,Uva Province Province,Sports,Cricket,Bats - Sanspariel Greenlands,4
+12/09/2011 10:10,581493,12423,41,Female,Physician,Uva Province Province,Sports,Cricket,Bats - Spartan Sports,5
+12/09/2011 10:10,581493,12423,41,Female,Physician,Uva Province Province,Sports,Cricket,Balls - Spartan Sports,3
+12/09/2011 10:10,581493,12423,41,Female,Physician,Uva Province Province,Sports,Cricket,Gloves & Pads - YONEX,2
+12/09/2011 10:10,581493,12423,41,Female,Physician,Uva Province Province,Sports,Cricket,Bats - Gunn and Moore ,2
+12/09/2011 10:10,581493,12423,41,Female,Physician,Uva Province Province,Sports,Cricket,Sports Bags - Puma,3
+12/09/2011 10:10,581493,12423,41,Female,Physician,Uva Province Province,Sports,Cricket,Shoes - Gray Nicolls,1
+12/09/2011 10:10,581493,12423,41,Female,Physician,Uva Province Province,Sports,Cricket,Shoes - Gray Nicolls,5
+12/09/2011 10:10,581493,12423,41,Female,Physician,Uva Province Province,Sports,Cricket,Shoes - Gray Nicolls,1
+12/09/2011 10:10,581493,12423,41,Female,Physician,Uva Province Province,Sports,Cricket,Other - Bail,2
+12/09/2011 10:10,581493,12423,41,Female,Physician,Uva Province Province,Sports,Cricket,Balls - Spartan Sports,1
+12/09/2011 10:10,581493,12423,41,Female,Physician,Uva Province Province,Sports,Cricket,Other Stump - Natural,2
+12/09/2011 10:10,581493,12423,41,Female,Physician,Uva Province Province,Sports,Cricket,Gloves & Pads - STANFORD,2
+12/09/2011 10:10,581493,12423,41,Female,Physician,Uva Province Province,Sports,Cricket,Shoes - Gray Nicolls,3
+12/09/2011 10:10,581493,12423,41,Female,Physician,Uva Province Province,Sports,Cricket,Bats - Sareen Sports,2
+12/09/2011 10:10,581493,12423,41,Female,Physician,Uva Province Province,Sports,Cricket,Other - Stump - Plastic,1
+12/09/2011 10:02,581491,12433,41,Female,Physician,North Central Province,Sports,Cricket,Bats - Beat All Sports,1
+12/09/2011 9:57,C581490,14397,43,Male,Police Officer,Western Province,Sports,Cricket,Bats - Beat All Sports,5
+12/09/2011 9:57,C581490,14397,43,Male,Police Officer,Western Province,Sports,Cricket,Gloves & Pads - YONEX,2
+12/09/2011 9:46,581489,16954,32,Male,Media Reporter,Western Province,Sports,Cricket,Balls - Spartan Sports,1
+12/09/2011 9:46,581489,16954,32,Male,Media Reporter,Western Province,Sports,Cricket,Other - Bail,2
+12/09/2011 9:45,581488,17428,37,Male,Driver,Western Province,Sports,Cricket,Sports Bags - Nike,1
+12/09/2011 9:45,581488,17428,37,Male,Driver,Western Province,Sports,Cricket,Bats - Beat All Sports,1
+12/09/2011 9:45,581488,17428,37,Male,Driver,Western Province,Sports,Cricket,Gloves & Pads - STANFORD,3
+12/09/2011 9:44,581487,15694,34,Male,Office manager,Eastern Province,Sports,Cricket,Bats - Beat All Sports,1
+12/09/2011 9:38,581485,17389,29,Male,Salesman,Western Province,Sports,Cricket,Other Stump - Marigold,3
+12/09/2011 9:38,581485,17389,29,Male,Salesman,Western Province,Sports,Cricket,Shoes - Asicsl,3
+12/09/2011 9:38,581485,17389,29,Male,Salesman,Western Province,Sports,Cricket,Other - Stump -Wood,1
+12/09/2011 9:38,581486,17001,34,Male,Technician,North Central Province,Sports,Cricket,Balls - AVM,5
+12/09/2011 9:38,581486,17001,34,Male,Technician,North Central Province,Sports,Cricket,Shoes - Asicsl,3
+12/09/2011 9:38,581486,17001,34,Male,Technician,North Central Province,Sports,Cricket,Bats - Sanspariel Greenlands,2
+12/09/2011 9:38,581486,17001,34,Male,Technician,North Central Province,Sports,Cricket,Gloves & Pads - KAY GEE,3
+12/09/2011 9:38,581486,17001,34,Male,Technician,North Central Province,Sports,Cricket,Shoes - Asicsl,4
+12/09/2011 9:38,581486,17001,34,Male,Technician,North Central Province,Sports,Cricket,Other Stump - Plastic,3
+12/09/2011 9:38,581486,17001,34,Male,Technician,North Central Province,Sports,Cricket,Bats - Sanspariel Greenlands,6
+12/09/2011 9:38,581486,17001,34,Male,Technician,North Central Province,Sports,Cricket,Other - Bail,1
+12/09/2011 9:38,581486,17001,34,Male,Technician,North Central Province,Sports,Cricket,Sports Bags - Diesel,2
+12/09/2011 9:38,581486,17001,34,Male,Technician,North Central Province,Sports,Cricket,Sports Bags - Puma,1
+12/09/2011 9:38,581486,17001,34,Male,Technician,North Central Province,Sports,Cricket,Other Stump - Wood,3
+12/09/2011 9:38,581486,17001,34,Male,Technician,North Central Province,Sports,Cricket,Bats - Gray-Nicolls,3
+12/09/2011 9:38,581486,17001,34,Male,Technician,North Central Province,Sports,Cricket,Balls - AVM,2
+12/09/2011 9:38,581486,17001,34,Male,Technician,North Central Province,Sports,Cricket,Other - Bail,1
+12/09/2011 9:38,581486,17001,34,Male,Technician,North Central Province,Sports,Cricket,Shoes - Asicsl,3
+12/09/2011 9:38,581486,17001,34,Male,Technician,North Central Province,Sports,Cricket,Other - Bail,1
+12/09/2011 9:27,C581484,16446,39,Female,Dentist,Western Province,Sports,Cricket,Bats -Beat All Sports,4
+12/09/2011 9:15,581483,16446,39,Female,Dentist,Western Province,Sports,Cricket,Gloves & Pads - KAY GEE,5
+12/09/2011 9:08,581482,17490,23,Male,Student,North Central Province,Sports,Cricket,Sports Bags - Nike,5
+12/09/2011 9:08,581482,17490,23,Male,Student,North Central Province,Sports,Cricket,Bats - Gray-Nicolls,3
+12/09/2011 9:08,581482,17490,23,Male,Student,North Central Province,Sports,Cricket,Other Stump - Wood,3
+12/09/2011 9:08,581482,17490,23,Male,Student,North Central Province,Sports,Cricket,Balls - AVM,1
+12/09/2011 9:08,581482,17490,23,Male,Student,North Central Province,Sports,Cricket,Balls - DSCl,1
+12/09/2011 9:08,581482,17490,23,Male,Student,North Central Province,Sports,Cricket,Shoes - Asicsl,3
+12/09/2011 9:07,581480,14441,27,Female,House Wife,Western Province,Sports,Cricket,Gloves & Pads - YONEX,3
+12/09/2011 9:07,581480,14441,27,Female,House Wife,Western Province,Sports,Cricket,Other - Bail,8
+12/09/2011 9:07,581480,14441,27,Female,House Wife,Western Province,Sports,Cricket,Bats - Spartan Sports,6
+12/09/2011 9:07,581480,14441,27,Female,House Wife,Western Province,Sports,Cricket,Balls - DSCl,1
+12/09/2011 9:07,581480,14441,27,Female,House Wife,Western Province,Sports,Cricket,Bats - Spartan Sports,6
+12/09/2011 9:07,581480,14441,27,Female,House Wife,Western Province,Sports,Cricket,Gloves & Pads - KAY GEE,2
+12/09/2011 9:07,581480,14441,27,Female,House Wife,Western Province,Sports,Cricket,Sports Bags - Nike,4
+12/09/2011 9:07,581480,14441,27,Female,House Wife,Western Province,Sports,Cricket,Balls - DSCl,3
+12/09/2011 9:07,581480,14441,27,Female,House Wife,Western Province,Sports,Cricket,Balls - SG,4
+12/09/2011 9:07,581481,17490,30,Female,Real Estate Agent,Western Province,Sports,Cricket,Other - Stump,4
+12/09/2011 9:07,581481,17490,30,Female,Real Estate Agent,Western Province,Sports,Cricket,Shoes - Adidas,1
+12/09/2011 9:07,581481,17490,30,Female,Real Estate Agent,Western Province,Sports,Cricket,Gloves & Pads - STANFORD,3
+12/09/2011 9:07,581481,17490,30,Female,Real Estate Agent,Western Province,Sports,Cricket,Bats - Spartan Sports,3
+12/09/2011 9:07,581481,17490,30,Female,Real Estate Agent,Western Province,Sports,Cricket,Balls - DSCl,2
+12/09/2011 9:07,581481,17490,30,Female,Real Estate Agent,Western Province,Sports,Cricket,Shoes - Jazba,1
+12/09/2011 9:07,581481,17490,30,Female,Real Estate Agent,Western Province,Sports,Cricket,Shoes - Puma,3
+12/09/2011 9:07,581481,17490,30,Female,Real Estate Agent,Western Province,Sports,Cricket,Sports Bags - Nike,1
+12/09/2011 9:07,581481,17490,30,Female,Real Estate Agent,Western Province,Sports,Cricket,Bats - Kookaburra,5
+12/09/2011 9:07,581481,17490,30,Female,Real Estate Agent,Western Province,Sports,Cricket,Gloves & Pads - STANFORD,1
+12/09/2011 9:07,581481,17490,30,Female,Real Estate Agent,Western Province,Sports,Cricket,Shoes - Jazba,5
+12/09/2011 9:07,581481,17490,30,Female,Real Estate Agent,Western Province,Sports,Cricket,Bats - Kookaburra,2
+12/09/2011 9:07,581481,17490,30,Female,Real Estate Agent,Western Province,Sports,Cricket,Balls - Spartan Sports,2
+12/09/2011 9:07,581481,17490,30,Female,Real Estate Agent,Western Province,Sports,Cricket,Other - Stump,3
+12/09/2011 9:07,581481,17490,30,Female,Real Estate Agent,Western Province,Sports,Cricket,Shoes - Adidas,4
+12/09/2011 9:07,581481,17490,30,Female,Real Estate Agent,Western Province,Sports,Cricket,Other - Bail,3
+12/09/2011 9:00,581479,17364,32,Male,Chef,Western Province,Sports,Cricket,Gloves & Pads - KAY GEE,6
+12/09/2011 8:59,581477,13426,37,Female,Pharmasist,Eastern Province,Sports,Cricket,Balls - Spartan Sports,3
+12/09/2011 8:59,581477,13426,37,Female,Pharmasist,Eastern Province,Sports,Cricket,Balls - Spartan Sports,2
+12/09/2011 8:59,581477,13426,37,Female,Pharmasist,Eastern Province,Sports,Cricket,Sports Bags - Puma,1
+12/09/2011 8:59,581477,13426,37,Female,Pharmasist,Eastern Province,Sports,Cricket,Bats - Kookaburra,5
+12/09/2011 8:59,581477,13426,37,Female,Pharmasist,Eastern Province,Sports,Cricket,Balls - Spartan Sports,3
+12/09/2011 8:59,581477,13426,37,Female,Pharmasist,Eastern Province,Sports,Cricket,Shoes - Jazba,1
+12/09/2011 8:59,581477,13426,37,Female,Pharmasist,Eastern Province,Sports,Cricket,Gloves & Pads - KAY GEE,6
+12/09/2011 8:59,581477,13426,37,Female,Pharmasist,Eastern Province,Sports,Cricket,Balls - COSCO,2
+12/09/2011 8:59,581477,13426,37,Female,Pharmasist,Eastern Province,Sports,Cricket,Bats - Kookaburra,4
+12/09/2011 8:59,581477,13426,37,Female,Pharmasist,Eastern Province,Sports,Cricket,Shoes - Jazba,3
+12/09/2011 8:59,581478,17364,46,Male,Doctor,Eastern Province,Sports,Cricket,Bats - Sareen Sports,4
+12/09/2011 8:59,581478,17364,46,Male,Doctor,Eastern Province,Sports,Cricket,Bats - Sareen Sports,3
+12/09/2011 8:59,581478,17364,46,Male,Doctor,Eastern Province,Sports,Cricket,Bats - Sareen Sports,1
+12/09/2011 8:59,581478,17364,46,Male,Doctor,Eastern Province,Sports,Cricket,Sports Bags - Puma,6
+12/09/2011 8:59,581478,17364,46,Male,Doctor,Eastern Province,Sports,Cricket,Balls - Spartan Sports,1
+12/09/2011 8:59,581478,17364,46,Male,Doctor,Eastern Province,Sports,Cricket,Bats - Gray-Nicolls,6
+12/09/2011 8:59,581478,17364,46,Male,Doctor,Eastern Province,Sports,Cricket,Gloves & Pads - YONEX,2
+12/09/2011 8:59,581478,17364,46,Male,Doctor,Eastern Province,Sports,Cricket,Other Stump - Natural,2
+12/09/2011 8:59,581478,17364,46,Male,Doctor,Eastern Province,Sports,Cricket,Shoes - Adidas,1
+12/09/2011 8:59,581478,17364,46,Male,Doctor,Eastern Province,Sports,Cricket,Other - Bail,4
+12/09/2011 8:59,581478,17364,46,Male,Doctor,Eastern Province,Sports,Cricket,Bats - Gray-Nicolls,2
+12/09/2011 8:59,581478,17364,46,Male,Doctor,Eastern Province,Sports,Cricket,Bats - Sanspariel Greenlands,2
+12/09/2011 8:59,581478,17364,46,Male,Doctor,Eastern Province,Sports,Cricket,Bats - Sanspariel Greenlands,1
+12/09/2011 8:59,581478,17364,46,Male,Doctor,Eastern Province,Sports,Cricket,Bats - Spartan Sports,5
+12/09/2011 8:59,581478,17364,46,Male,Doctor,Eastern Province,Sports,Cricket,Balls - Spartan Sports,3
+12/09/2011 8:59,581478,17364,46,Male,Doctor,Eastern Province,Sports,Cricket,Gloves & Pads - YONEX,2
+12/09/2011 8:59,581478,17364,46,Male,Doctor,Eastern Province,Sports,Cricket,Bats - Gunn and Moore ,6
+12/09/2011 8:59,581478,17364,46,Male,Doctor,Eastern Province,Sports,Cricket,Sports Bags - Puma,1
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Shoes - Gray Nicolls,2
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Shoes - Gray Nicolls,3
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Shoes - Gray Nicolls,8
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Other - Bail,2
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Balls - Spartan Sports,3
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Other Stump - Natural,3
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Gloves & Pads - STANFORD,3
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Shoes - Gray Nicolls,2
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Bats - Sareen Sports,3
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Other - Stump - Plastic,4
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Bats - Beat All Sports,2
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Bats - Beat All Sports,7
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Gloves & Pads - YONEX,2
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Balls - Spartan Sports,2
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Other - Bail,2
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Sports Bags - Nike,3
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Bats - Beat All Sports,2
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Gloves & Pads - STANFORD,4
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Bats - Beat All Sports,5
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Other Stump - Marigold,1
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Shoes - Asicsl,1
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Other - Stump -Wood,4
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Balls - AVM,2
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Shoes - Asicsl,5
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Bats - Sanspariel Greenlands,2
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Gloves & Pads - KAY GEE,1
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Shoes - Asicsl,1
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Other Stump - Plastic,3
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Bats - Sanspariel Greenlands,2
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Other - Bail,2
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Sports Bags - Diesel,2
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Sports Bags - Puma,2
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Other Stump - Wood,4
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Bats - Gray-Nicolls,5
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Balls - AVM,2
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Other - Bail,3
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Shoes - Asicsl,4
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Other - Bail,3
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Bats -Beat All Sports,5
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Gloves & Pads - KAY GEE,4
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Sports Bags - Nike,2
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Bats - Gray-Nicolls,2
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Other Stump - Wood,3
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Balls - AVM,2
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Balls - DSCl,2
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Shoes - Asicsl,4
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Gloves & Pads - YONEX,3
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Other - Bail,1
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Bats - Spartan Sports,6
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Balls - DSCl,2
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Bats - Spartan Sports,2
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Gloves & Pads - KAY GEE,2
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Sports Bags - Nike,4
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Balls - DSCl,2
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Balls - SG,3
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Other - Stump,2
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Shoes - Adidas,3
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Gloves & Pads - STANFORD,3
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Bats - Spartan Sports,2
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Balls - DSCl,6
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Shoes - Jazba,2
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Shoes - Puma,2
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Sports Bags - Nike,3
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Bats - Kookaburra,3
+12/09/2011 8:48,581476,12433,40,Female,Singer,North Central Province,Sports,Cricket,Gloves & Pads - STANFORD,4
+12/09/2011 8:39,581475,13069,34,Male,Artist,Eastern Province,Sports,Cricket,Shoes - Jazba,2
+12/09/2011 8:39,581475,13069,34,Male,Artist,Eastern Province,Sports,Cricket,Bats - Kookaburra,3
+12/09/2011 8:39,581475,13069,34,Male,Artist,Eastern Province,Sports,Cricket,Balls - Spartan Sports,2
+12/09/2011 8:39,581475,13069,34,Male,Artist,Eastern Province,Sports,Cricket,Other - Stump,2
+12/09/2011 8:39,581475,13069,34,Male,Artist,Eastern Province,Sports,Cricket,Shoes - Adidas,1
+12/09/2011 8:39,581475,13069,34,Male,Artist,Eastern Province,Sports,Cricket,Other - Bail,2
+12/09/2011 8:39,581475,13069,34,Male,Artist,Eastern Province,Sports,Cricket,Gloves & Pads - KAY GEE,3
+12/09/2011 8:39,581475,13069,34,Male,Artist,Eastern Province,Sports,Cricket,Balls - Spartan Sports,6
+12/09/2011 8:39,581475,13069,34,Male,Artist,Eastern Province,Sports,Cricket,Balls - Spartan Sports,1
+12/09/2011 8:39,581475,13069,34,Male,Artist,Eastern Province,Sports,Cricket,Sports Bags - Puma,3
+12/09/2011 8:39,581475,13069,34,Male,Artist,Eastern Province,Sports,Cricket,Bats - Kookaburra,2
+12/09/2011 8:39,581475,13069,34,Male,Artist,Eastern Province,Sports,Cricket,Balls - Spartan Sports,3
+12/09/2011 8:39,581475,13069,34,Male,Artist,Eastern Province,Sports,Cricket,Shoes - Jazba,1
+12/09/2011 8:39,581475,13069,34,Male,Artist,Eastern Province,Sports,Cricket,Gloves & Pads - KAY GEE,3
+12/09/2011 8:39,581475,13069,34,Male,Artist,Eastern Province,Sports,Cricket,Balls - COSCO,3
+12/09/2011 8:39,581475,13069,34,Male,Artist,Eastern Province,Sports,Cricket,Bats - Kookaburra,4
+12/09/2011 8:39,581475,13069,34,Male,Artist,Eastern Province,Sports,Cricket,Shoes - Jazba,1
+12/09/2011 8:39,581475,13069,34,Male,Artist,Eastern Province,Sports,Cricket,Bats - Sareen Sports,6
+12/09/2011 8:39,581475,13069,34,Male,Artist,Eastern Province,Sports,Cricket,Bats - Sareen Sports,1
+12/08/2011 20:01,581474,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Bats - Sareen Sports,6
+12/08/2011 20:01,581474,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Sports Bags - Puma,1
+12/08/2011 20:01,581474,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Balls - Spartan Sports,2
+12/08/2011 20:01,581474,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Bats - Gray-Nicolls,1
+12/08/2011 20:01,581474,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Gloves & Pads - YONEX,3
+12/08/2011 20:01,581474,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Other Stump - Natural,3
+12/08/2011 20:01,581474,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Shoes - Adidas,2
+12/08/2011 20:01,581474,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Other - Bail,1
+12/08/2011 20:01,581474,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Bats - Gray-Nicolls,3
+12/08/2011 20:01,581474,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Bats - Sanspariel Greenlands,1
+12/08/2011 20:01,581474,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Bats - Sanspariel Greenlands,4
+12/08/2011 20:01,581474,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Bats - Spartan Sports,5
+12/08/2011 20:01,581474,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Balls - Spartan Sports,3
+12/08/2011 20:01,581474,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Gloves & Pads - YONEX,2
+12/08/2011 20:01,581474,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Bats - Gunn and Moore ,2
+12/08/2011 20:01,581474,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Sports Bags - Puma,3
+12/08/2011 20:01,581474,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Shoes - Gray Nicolls,1
+12/08/2011 20:01,581474,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Shoes - Gray Nicolls,5
+12/08/2011 20:01,581474,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Shoes - Gray Nicolls,1
+12/08/2011 20:01,581474,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Other - Bail,2
+12/08/2011 20:01,581474,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Balls - Spartan Sports,1
+12/08/2011 20:01,581474,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Other Stump - Natural,2
+12/08/2011 20:01,581474,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Gloves & Pads - STANFORD,2
+12/08/2011 20:01,581474,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Shoes - Gray Nicolls,3
+12/08/2011 19:57,581473,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Bats - Sareen Sports,2
+12/08/2011 19:57,581473,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Other - Stump - Plastic,1
+12/08/2011 19:57,581473,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Bats - Beat All Sports,1
+12/08/2011 19:57,581473,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Bats - Beat All Sports,5
+12/08/2011 19:57,581473,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Gloves & Pads - YONEX,2
+12/08/2011 19:57,581473,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Balls - Spartan Sports,1
+12/08/2011 19:57,581473,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Other - Bail,2
+12/08/2011 19:57,581473,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Sports Bags - Nike,1
+12/08/2011 19:57,581473,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Bats - Beat All Sports,1
+12/08/2011 19:57,581473,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Gloves & Pads - STANFORD,3
+12/08/2011 19:57,581473,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Bats - Beat All Sports,1
+12/08/2011 19:57,581473,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Other Stump - Marigold,3
+12/08/2011 19:57,581473,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Shoes - Asicsl,3
+12/08/2011 19:57,581473,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Other - Stump -Wood,1
+12/08/2011 19:57,581473,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Balls - AVM,5
+12/08/2011 19:57,581473,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Shoes - Asicsl,3
+12/08/2011 19:57,581473,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Bats - Sanspariel Greenlands,2
+12/08/2011 19:57,581473,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Gloves & Pads - KAY GEE,3
+12/08/2011 19:57,581473,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Shoes - Asicsl,4
+12/08/2011 19:57,581473,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Other Stump - Plastic,3
+12/08/2011 19:57,581473,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Bats - Sanspariel Greenlands,6
+12/08/2011 19:57,581473,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Other - Bail,1
+12/08/2011 19:57,581473,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Sports Bags - Diesel,2
+12/08/2011 19:57,581473,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Sports Bags - Puma,1
+12/08/2011 19:57,581473,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Other Stump - Wood,3
+12/08/2011 19:57,581473,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Bats - Gray-Nicolls,3
+12/08/2011 19:57,581473,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Balls - AVM,2
+12/08/2011 19:57,581473,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Other - Bail,1
+12/08/2011 19:57,581473,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Shoes - Asicsl,3
+12/08/2011 19:57,581473,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Other - Bail,1
+12/08/2011 19:57,581473,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Bats -Beat All Sports,4
+12/08/2011 19:57,581473,12748,32,Male,Gym Instructor,Eastern Province,Sports,Cricket,Gloves & Pads - KAY GEE,5
+12/08/2011 19:55,581472,15796,52,Male,Fitness Center Owner,Western Province,Sports,Cricket,Sports Bags - Nike,5
+12/08/2011 19:55,581472,15796,52,Male,Fitness Center Owner,Western Province,Sports,Cricket,Bats - Gray-Nicolls,3
+12/08/2011 19:55,581472,15796,52,Male,Fitness Center Owner,Western Province,Sports,Cricket,Other Stump - Wood,3
+12/08/2011 19:55,581472,15796,52,Male,Fitness Center Owner,Western Province,Sports,Cricket,Balls - AVM,1
+12/08/2011 19:55,581472,15796,52,Male,Fitness Center Owner,Western Province,Sports,Cricket,Balls - DSCl,1
+12/08/2011 19:55,581472,15796,52,Male,Fitness Center Owner,Western Province,Sports,Cricket,Shoes - Asicsl,3
+12/08/2011 19:55,581472,15796,52,Male,Fitness Center Owner,Western Province,Sports,Cricket,Gloves & Pads - YONEX,3
+12/08/2011 19:55,581472,15796,52,Male,Fitness Center Owner,Western Province,Sports,Cricket,Other - Bail,8
+12/08/2011 19:55,581472,15796,52,Male,Fitness Center Owner,Western Province,Sports,Cricket,Bats - Spartan Sports,6
+12/08/2011 19:55,581472,15796,52,Male,Fitness Center Owner,Western Province,Sports,Cricket,Balls - DSCl,1
+12/08/2011 19:55,581472,15796,52,Male,Fitness Center Owner,Western Province,Sports,Cricket,Bats - Spartan Sports,6
+12/08/2011 19:55,581472,15796,52,Male,Fitness Center Owner,Western Province,Sports,Cricket,Gloves & Pads - KAY GEE,2
+12/08/2011 19:55,581472,15796,52,Male,Fitness Center Owner,Western Province,Sports,Cricket,Sports Bags - Nike,4
+12/08/2011 19:55,581472,15796,52,Male,Fitness Center Owner,Western Province,Sports,Cricket,Balls - DSCl,3
+12/08/2011 19:55,581472,15796,52,Male,Fitness Center Owner,Western Province,Sports,Cricket,Balls - SG,4
+12/08/2011 19:55,581472,15796,52,Male,Fitness Center Owner,Western Province,Sports,Cricket,Other - Stump,4
+12/08/2011 19:55,581472,15796,52,Male,Fitness Center Owner,Western Province,Sports,Cricket,Shoes - Adidas,1
+12/08/2011 19:29,581471,14702,39,Male,Singer,Central Province,Sports,Cricket,Gloves & Pads - STANFORD,3
+12/08/2011 19:29,581471,14702,39,Male,Singer,Central Province,Sports,Cricket,Bats - Spartan Sports,3
+12/08/2011 19:29,581471,14702,39,Male,Singer,Central Province,Sports,Cricket,Balls - DSCl,2
+12/08/2011 19:29,581471,14702,39,Male,Singer,Central Province,Sports,Cricket,Shoes - Jazba,1
+12/08/2011 19:29,581471,14702,39,Male,Singer,Central Province,Sports,Cricket,Shoes - Puma,3
+12/08/2011 19:29,581471,14702,39,Male,Singer,Central Province,Sports,Cricket,Sports Bags - Nike,1
+12/08/2011 19:29,581471,14702,39,Male,Singer,Central Province,Sports,Cricket,Bats - Kookaburra,5
+12/08/2011 19:29,581471,14702,39,Male,Singer,Central Province,Sports,Cricket,Gloves & Pads - STANFORD,1
+12/08/2011 19:29,581471,14702,39,Male,Singer,Central Province,Sports,Cricket,Shoes - Jazba,5
+12/08/2011 19:29,581471,14702,39,Male,Singer,Central Province,Sports,Cricket,Bats - Kookaburra,2
+12/08/2011 19:29,581471,14702,39,Male,Singer,Central Province,Sports,Cricket,Balls - Spartan Sports,2
+12/08/2011 19:29,581471,14702,39,Male,Singer,Central Province,Sports,Cricket,Other - Stump,3
+12/08/2011 19:29,581471,14702,39,Male,Singer,Central Province,Sports,Cricket,Shoes - Adidas,4
+12/08/2011 19:29,581471,14702,39,Male,Singer,Central Province,Sports,Cricket,Other - Bail,3
+12/08/2011 19:29,581471,14702,39,Male,Singer,Central Province,Sports,Cricket,Gloves & Pads - KAY GEE,6
+12/08/2011 19:29,581471,14702,39,Male,Singer,Central Province,Sports,Cricket,Balls - Spartan Sports,3
+12/08/2011 19:29,581471,14702,39,Male,Singer,Central Province,Sports,Cricket,Balls - Spartan Sports,2
+12/08/2011 19:29,581471,14702,39,Male,Singer,Central Province,Sports,Cricket,Sports Bags - Puma,1
+12/08/2011 19:29,581471,14702,39,Male,Singer,Central Province,Sports,Cricket,Bats - Kookaburra,5
+12/08/2011 19:29,581471,14702,39,Male,Singer,Central Province,Sports,Cricket,Balls - Spartan Sports,3
+12/08/2011 19:29,581471,14702,39,Male,Singer,Central Province,Sports,Cricket,Shoes - Jazba,1
+12/08/2011 19:29,581471,14702,39,Male,Singer,Central Province,Sports,Cricket,Gloves & Pads - KAY GEE,6
+12/08/2011 19:29,581471,14702,39,Male,Singer,Central Province,Sports,Cricket,Balls - COSCO,2
+12/08/2011 19:29,581471,14702,39,Male,Singer,Central Province,Sports,Cricket,Bats - Kookaburra,4
+12/08/2011 19:29,581471,14702,39,Male,Singer,Central Province,Sports,Cricket,Shoes - Jazba,3
+12/08/2011 19:29,581471,14702,39,Male,Singer,Central Province,Sports,Cricket,Bats - Sareen Sports,4
+12/08/2011 19:29,581471,14702,39,Male,Singer,Central Province,Sports,Cricket,Bats - Sareen Sports,3
+12/08/2011 19:28,581469,14606,28,Female,Artist,Central Province,Sports,Cricket,Bats - Sareen Sports,1
+12/08/2011 19:28,581469,14606,28,Female,Artist,Central Province,Sports,Cricket,Sports Bags - Puma,6
+12/08/2011 19:28,581469,14606,28,Female,Artist,Central Province,Sports,Cricket,Balls - Spartan Sports,1
+12/08/2011 19:28,581469,14606,28,Female,Artist,Central Province,Sports,Cricket,Bats - Gray-Nicolls,6
+12/08/2011 19:28,581469,14606,28,Female,Artist,Central Province,Sports,Cricket,Gloves & Pads - YONEX,2
+12/08/2011 19:28,581469,14606,28,Female,Artist,Central Province,Sports,Cricket,Other Stump - Natural,2
+12/08/2011 19:28,581469,14606,28,Female,Artist,Central Province,Sports,Cricket,Shoes - Adidas,1
+12/08/2011 19:28,581469,14606,28,Female,Artist,Central Province,Sports,Cricket,Other - Bail,4
+12/08/2011 19:28,581469,14606,28,Female,Artist,Central Province,Sports,Cricket,Bats - Gray-Nicolls,2
+12/08/2011 19:28,581469,14606,28,Female,Artist,Central Province,Sports,Cricket,Bats - Sanspariel Greenlands,2
+12/08/2011 19:28,581469,14606,28,Female,Artist,Central Province,Sports,Cricket,Bats - Sanspariel Greenlands,1
+12/08/2011 19:28,581469,14606,28,Female,Artist,Central Province,Sports,Cricket,Bats - Spartan Sports,5
+12/08/2011 19:28,581469,14606,28,Female,Artist,Central Province,Sports,Cricket,Balls - Spartan Sports,3
+12/08/2011 19:28,581469,14606,28,Female,Artist,Central Province,Sports,Cricket,Gloves & Pads - YONEX,2
+12/08/2011 19:28,581469,14606,28,Female,Artist,Central Province,Sports,Cricket,Bats - Gunn and Moore ,6
+12/08/2011 19:28,581469,14606,28,Female,Artist,Central Province,Sports,Cricket,Sports Bags - Puma,1
+12/08/2011 19:28,581469,14606,28,Female,Artist,Central Province,Sports,Cricket,Shoes - Gray Nicolls,2
+12/08/2011 19:28,581469,14606,28,Female,Artist,Central Province,Sports,Cricket,Shoes - Gray Nicolls,3
+12/08/2011 19:28,581469,14606,28,Female,Artist,Central Province,Sports,Cricket,Shoes - Gray Nicolls,8
+12/08/2011 19:28,581469,14606,28,Female,Artist,Central Province,Sports,Cricket,Other - Bail,2
+12/08/2011 19:28,581469,14606,28,Female,Artist,Central Province,Sports,Cricket,Balls - Spartan Sports,3
+12/08/2011 19:28,581469,14606,28,Female,Artist,Central Province,Sports,Cricket,Other Stump - Natural,3
+12/08/2011 19:28,581469,14606,28,Female,Artist,Central Province,Sports,Cricket,Gloves & Pads - STANFORD,3
+12/08/2011 19:28,581469,14606,28,Female,Artist,Central Province,Sports,Cricket,Shoes - Gray Nicolls,2
+12/08/2011 19:28,581469,14606,28,Female,Artist,Central Province,Sports,Cricket,Bats - Sareen Sports,3
+12/08/2011 19:28,581469,14606,28,Female,Artist,Central Province,Sports,Cricket,Other - Stump - Plastic,4
+12/08/2011 19:28,581469,14606,28,Female,Artist,Central Province,Sports,Cricket,Bats - Beat All Sports,2
+12/08/2011 19:28,581469,14606,28,Female,Artist,Central Province,Sports,Cricket,Bats - Beat All Sports,7
+12/08/2011 19:28,581469,14606,28,Female,Artist,Central Province,Sports,Cricket,Gloves & Pads - YONEX,2
+12/08/2011 19:28,581469,14606,28,Female,Artist,Central Province,Sports,Cricket,Balls - Spartan Sports,2
+12/08/2011 19:28,581469,14606,28,Female,Artist,Central Province,Sports,Cricket,Other - Bail,2
+12/08/2011 19:28,581469,14606,28,Female,Artist,Central Province,Sports,Cricket,Sports Bags - Nike,3
+12/08/2011 19:28,581469,14606,28,Female,Artist,Central Province,Sports,Cricket,Bats - Beat All Sports,2
+12/08/2011 19:28,C581470,17924,47,Male,Musician,Western Province,Sports,Cricket,Gloves & Pads - STANFORD,4
+12/08/2011 19:26,C581468,13599,24,Male,Gym Instructor,Western Province,Sports,Cricket,Bats - Beat All Sports,5
+12/08/2011 19:26,C581468,13599,24,Male,Gym Instructor,Western Province,Sports,Cricket,Other Stump - Marigold,1
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Shoes - Asicsl,1
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Other - Stump -Wood,4
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Balls - AVM,2
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Shoes - Asicsl,5
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Bats - Sanspariel Greenlands,2
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Gloves & Pads - KAY GEE,1
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Shoes - Asicsl,1
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Other Stump - Plastic,3
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Bats - Sanspariel Greenlands,2
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Other - Bail,2
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Sports Bags - Diesel,2
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Sports Bags - Puma,2
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Other Stump - Wood,4
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Bats - Gray-Nicolls,5
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Balls - AVM,2
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Other - Bail,3
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Shoes - Asicsl,4
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Other - Bail,3
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Bats -Beat All Sports,5
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Gloves & Pads - KAY GEE,4
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Sports Bags - Nike,2
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Bats - Gray-Nicolls,2
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Other Stump - Wood,3
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Balls - AVM,2
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Balls - DSCl,2
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Shoes - Asicsl,4
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Gloves & Pads - YONEX,3
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Other - Bail,1
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Bats - Spartan Sports,6
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Balls - DSCl,2
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Bats - Spartan Sports,2
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Gloves & Pads - KAY GEE,2
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Sports Bags - Nike,4
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Balls - DSCl,2
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Balls - SG,3
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Other - Stump,2
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Shoes - Adidas,3
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Gloves & Pads - STANFORD,3
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Bats - Spartan Sports,2
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Balls - DSCl,6
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Shoes - Jazba,2
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Shoes - Puma,2
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Sports Bags - Nike,3
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Bats - Kookaburra,3
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Gloves & Pads - STANFORD,4
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Shoes - Jazba,2
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Bats - Kookaburra,3
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Balls - Spartan Sports,2
+12/08/2011 19:24,581467,13077,59,Male,Musician,Western Province,Sports,Cricket,Other - Stump,2
+12/08/2011 19:20,C581466,13883,43,Female,House Wife,Western Province,Sports,Cricket,Shoes - Adidas,1
+12/08/2011 19:20,C581466,13883,43,Female,House Wife,Western Province,Sports,Cricket,Other - Bail,2
+12/08/2011 19:20,C581466,13883,43,Female,House Wife,Western Province,Sports,Cricket,Gloves & Pads - KAY GEE,3
+12/08/2011 19:20,C581466,13883,43,Female,House Wife,Western Province,Sports,Cricket,Balls - Spartan Sports,6
+12/08/2011 19:20,C581466,13883,43,Female,House Wife,Western Province,Sports,Cricket,Balls - Spartan Sports,1
+12/08/2011 18:59,C581465,15755,19,Male,Student,Western Province,Sports,Cricket,Sports Bags - Puma,3
+12/08/2011 18:59,C581465,15755,19,Male,Student,Western Province,Sports,Cricket,Bats - Kookaburra,2
+12/08/2011 18:59,C581465,15755,19,Male,Student,Western Province,Sports,Cricket,Balls - Spartan Sports,3
+12/08/2011 18:59,C581465,15755,19,Male,Student,Western Province,Sports,Cricket,Shoes - Jazba,1
+12/08/2011 18:57,C581464,15951,29,Female,Sportsman,Western Province,Sports,Cricket,Gloves & Pads - KAY GEE,3
+12/08/2011 18:57,C581464,15951,29,Female,Sportsman,Western Province,Sports,Cricket,Balls - COSCO,3
+12/08/2011 18:56,C581463,17526,35,Male,Gym Instructor,Western Province,Sports,Cricket,Bats - Kookaburra,4
+12/08/2011 18:51,581461,13318,26,Female,Singer,Western Province,Sports,Cricket,Shoes - Jazba,1
+12/08/2011 18:51,581461,13318,26,Female,Singer,Western Province,Sports,Cricket,Bats - Sareen Sports,6
+12/08/2011 18:51,581461,13318,26,Female,Singer,Western Province,Sports,Cricket,Bats - Sareen Sports,1
+12/08/2011 18:51,581461,13318,26,Female,Singer,Western Province,Sports,Cricket,Bats - Sareen Sports,6
+12/08/2011 18:51,C581462,12985,30,Male,Artist,Western Province,Sports,Cricket,Sports Bags - Puma,1
+12/08/2011 18:51,C581462,12985,30,Male,Artist,Western Province,Sports,Cricket,Balls - Spartan Sports,2
+12/08/2011 18:48,C581460,13078,39,Male,Gym owner,Western Province,Sports,Cricket,Bats - Gray-Nicolls,1
+12/08/2011 18:48,C581460,13078,39,Male,Gym owner,Western Province,Sports,Cricket,Gloves & Pads - YONEX,3
+12/08/2011 18:46,581459,17949,28,Male,Cricketer,Western Province,Sports,Cricket,Other Stump - Natural,3
+12/08/2011 18:45,581458,17949,28,Male,Cricketer,Western Province,Sports,Cricket,Shoes - Adidas,2
+12/08/2011 18:43,581457,18102,35,Male,Coach,Western Province,Sports,Cricket,Other - Bail,1
+12/08/2011 18:43,581457,18102,35,Male,Coach,Western Province,Sports,Cricket,Bats - Gray-Nicolls,3
+12/08/2011 18:43,581457,18102,35,Male,Coach,Western Province,Sports,Cricket,Bats - Sanspariel Greenlands,1
+12/08/2011 18:43,581457,18102,35,Male,Coach,Western Province,Sports,Cricket,Bats - Sanspariel Greenlands,4
+12/08/2011 18:43,581457,18102,35,Male,Coach,Western Province,Sports,Cricket,Bats - Spartan Sports,5
+12/08/2011 18:43,581457,18102,35,Male,Coach,Western Province,Sports,Cricket,Balls - Spartan Sports,3
+12/08/2011 18:43,581457,18102,35,Male,Coach,Western Province,Sports,Cricket,Gloves & Pads - YONEX,2
+12/08/2011 18:43,581457,18102,35,Male,Coach,Western Province,Sports,Cricket,Bats - Gunn and Moore ,2
+12/08/2011 18:43,581457,18102,35,Male,Coach,Western Province,Sports,Cricket,Sports Bags - Puma,3
+12/08/2011 18:43,581457,18102,35,Male,Coach,Western Province,Sports,Cricket,Shoes - Gray Nicolls,1
+12/08/2011 18:43,581457,18102,35,Male,Coach,Western Province,Sports,Cricket,Shoes - Gray Nicolls,5
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Shoes - Gray Nicolls,1
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Other - Bail,2
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Balls - Spartan Sports,1
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Other Stump - Natural,2
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Gloves & Pads - STANFORD,2
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Shoes - Gray Nicolls,3
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Bats - Sareen Sports,2
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Other - Stump - Plastic,1
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Bats - Beat All Sports,1
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Bats - Beat All Sports,5
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Gloves & Pads - YONEX,2
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Balls - Spartan Sports,1
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Other - Bail,2
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Sports Bags - Nike,1
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Bats - Beat All Sports,1
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Gloves & Pads - STANFORD,3
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Bats - Beat All Sports,1
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Other Stump - Marigold,3
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Shoes - Asicsl,3
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Other - Stump -Wood,1
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Balls - AVM,5
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Shoes - Asicsl,3
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Bats - Sanspariel Greenlands,2
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Gloves & Pads - KAY GEE,3
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Shoes - Asicsl,4
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Other Stump - Plastic,3
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Bats - Sanspariel Greenlands,6
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Other - Bail,1
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Sports Bags - Diesel,2
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Sports Bags - Puma,1
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Other Stump - Wood,3
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Bats - Gray-Nicolls,3
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Balls - AVM,2
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Other - Bail,1
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Shoes - Asicsl,3
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Other - Bail,1
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Bats -Beat All Sports,4
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Gloves & Pads - KAY GEE,5
+12/08/2011 18:42,581456,17530,48,Female,House Wife,Western Province,Sports,Cricket,Sports Bags - Nike,5
+12/08/2011 18:25,581455,18102,34,Male,Police Officer,Central Province,Sports,Cricket,Bats - Gray-Nicolls,3
+12/08/2011 18:25,581455,18102,34,Male,Police Officer,Central Province,Sports,Cricket,Other Stump - Wood,3
+12/08/2011 18:25,581455,18102,34,Male,Police Officer,Central Province,Sports,Cricket,Balls - AVM,1
+12/08/2011 18:25,581455,18102,34,Male,Police Officer,Central Province,Sports,Cricket,Balls - DSCl,1
+12/08/2011 18:25,581455,18102,34,Male,Police Officer,Central Province,Sports,Cricket,Shoes - Asicsl,3
+12/08/2011 18:25,581455,18102,34,Male,Police Officer,Central Province,Sports,Cricket,Gloves & Pads - YONEX,3
+12/08/2011 18:25,581455,18102,34,Male,Police Officer,Central Province,Sports,Cricket,Other - Bail,8
+12/08/2011 18:25,581455,18102,34,Male,Police Officer,Central Province,Sports,Cricket,Bats - Spartan Sports,6
+12/08/2011 18:25,581455,18102,34,Male,Police Officer,Central Province,Sports,Cricket,Balls - DSCl,1
+12/08/2011 18:25,581455,18102,34,Male,Police Officer,Central Province,Sports,Cricket,Bats - Spartan Sports,6
+12/08/2011 18:25,581455,18102,34,Male,Police Officer,Central Province,Sports,Cricket,Gloves & Pads - KAY GEE,2
+12/08/2011 18:22,581454,15156,30,Female,Sports Master,Central Province,Sports,Cricket,Sports Bags - Nike,4
+12/08/2011 18:22,581454,15156,30,Female,Sports Master,Central Province,Sports,Cricket,Balls - DSCl,3
+12/08/2011 18:22,581454,15156,30,Female,Sports Master,Central Province,Sports,Cricket,Balls - SG,4
+12/08/2011 18:22,581454,15156,30,Female,Sports Master,Central Province,Sports,Cricket,Other - Stump,4
+12/08/2011 18:22,581454,15156,30,Female,Sports Master,Central Province,Sports,Cricket,Shoes - Adidas,1
+12/08/2011 18:22,581454,15156,30,Female,Sports Master,Central Province,Sports,Cricket,Gloves & Pads - STANFORD,3
+12/08/2011 18:22,581454,15156,30,Female,Sports Master,Central Province,Sports,Cricket,Bats - Spartan Sports,3
+12/08/2011 18:22,581454,15156,30,Female,Sports Master,Central Province,Sports,Cricket,Balls - DSCl,2
+12/08/2011 18:22,581454,15156,30,Female,Sports Master,Central Province,Sports,Cricket,Shoes - Jazba,1
+12/08/2011 18:22,581454,15156,30,Female,Sports Master,Central Province,Sports,Cricket,Shoes - Puma,3
+12/08/2011 18:15,581453,16401,27,Male,Sportsman,Western Province,Sports,Cricket,Sports Bags - Nike,1
+12/08/2011 18:15,581453,16401,27,Male,Sportsman,Western Province,Sports,Cricket,Bats - Kookaburra,5
+12/08/2011 18:15,581453,16401,27,Male,Sportsman,Western Province,Sports,Cricket,Gloves & Pads - STANFORD,1
+12/08/2011 18:15,581453,16401,27,Male,Sportsman,Western Province,Sports,Cricket,Shoes - Jazba,5
+12/08/2011 18:15,581453,16401,27,Male,Sportsman,Western Province,Sports,Cricket,Bats - Kookaburra,2
+12/08/2011 18:15,581453,16401,27,Male,Sportsman,Western Province,Sports,Cricket,Balls - Spartan Sports,2
+12/08/2011 18:15,581453,16401,27,Male,Sportsman,Western Province,Sports,Cricket,Other - Stump,3
+12/08/2011 18:15,581453,16401,27,Male,Sportsman,Western Province,Sports,Cricket,Shoes - Adidas,4
+12/08/2011 18:15,581453,16401,27,Male,Sportsman,Western Province,Sports,Cricket,Other - Bail,3
+12/08/2011 18:15,581453,16401,27,Male,Sportsman,Western Province,Sports,Cricket,Gloves & Pads - KAY GEE,6
+12/08/2011 18:15,581453,16401,27,Male,Sportsman,Western Province,Sports,Cricket,Balls - Spartan Sports,3
+12/08/2011 18:15,581453,16401,27,Male,Sportsman,Western Province,Sports,Cricket,Balls - Spartan Sports,2
+12/08/2011 18:15,581453,16401,27,Male,Sportsman,Western Province,Sports,Cricket,Sports Bags - Puma,1
+12/08/2011 18:15,581453,16401,27,Male,Sportsman,Western Province,Sports,Cricket,Bats - Kookaburra,5
+12/08/2011 18:15,581453,16401,27,Male,Sportsman,Western Province,Sports,Cricket,Balls - Spartan Sports,3
+12/08/2011 18:15,581453,16401,27,Male,Sportsman,Western Province,Sports,Cricket,Shoes - Jazba,1
+12/08/2011 18:15,581453,16401,27,Male,Sportsman,Western Province,Sports,Cricket,Gloves & Pads - KAY GEE,6
+12/08/2011 18:15,581453,16401,27,Male,Sportsman,Western Province,Sports,Cricket,Balls - COSCO,2
+12/08/2011 18:15,581453,16401,27,Male,Sportsman,Western Province,Sports,Cricket,Bats - Kookaburra,4
+12/08/2011 18:03,581452,17675,50,Male,Architect,Western Province,Sports,Cricket,Shoes - Jazba,3
+12/08/2011 18:03,581452,17675,50,Male,Architect,Western Province,Sports,Cricket,Bats - Sareen Sports,4
+12/08/2011 18:03,581452,17675,50,Male,Architect,Western Province,Sports,Cricket,Bats - Sareen Sports,3
+12/08/2011 18:03,581452,17675,50,Male,Architect,Western Province,Sports,Cricket,Bats - Sareen Sports,1
+12/08/2011 18:03,581452,17675,50,Male,Architect,Western Province,Sports,Cricket,Sports Bags - Puma,6
+12/08/2011 18:03,581452,17675,50,Male,Architect,Western Province,Sports,Cricket,Balls - Spartan Sports,1
+12/08/2011 18:03,581452,17675,50,Male,Architect,Western Province,Sports,Cricket,Bats - Gray-Nicolls,6
+12/08/2011 18:03,581452,17675,50,Male,Architect,Western Province,Sports,Cricket,Gloves & Pads - YONEX,2
+12/08/2011 18:03,581452,17675,50,Male,Architect,Western Province,Sports,Cricket,Other Stump - Natural,2
+12/08/2011 18:03,581452,17675,50,Male,Architect,Western Province,Sports,Cricket,Shoes - Adidas,1
+12/08/2011 18:03,581452,17675,50,Male,Architect,Western Province,Sports,Cricket,Other - Bail,4
+12/08/2011 18:03,581452,17675,50,Male,Architect,Western Province,Sports,Cricket,Bats - Gray-Nicolls,2
+12/08/2011 18:03,581452,17675,50,Male,Architect,Western Province,Sports,Cricket,Bats - Sanspariel Greenlands,2
+12/08/2011 18:03,581452,17675,50,Male,Architect,Western Province,Sports,Cricket,Bats - Sanspariel Greenlands,1
+12/08/2011 18:03,581452,17675,50,Male,Architect,Western Province,Sports,Cricket,Bats - Spartan Sports,5
+12/08/2011 18:03,581452,17675,50,Male,Architect,Western Province,Sports,Cricket,Balls - Spartan Sports,3
+12/08/2011 18:03,581452,17675,50,Male,Architect,Western Province,Sports,Cricket,Gloves & Pads - YONEX,2
+12/08/2011 18:03,581452,17675,50,Male,Architect,Western Province,Sports,Cricket,Bats - Gunn and Moore ,6
+12/08/2011 17:57,581451,17144,43,Male,Sports Master,Uva Province Province,Sports,Cricket,Sports Bags - Puma,1
+12/08/2011 17:57,581451,17144,43,Male,Sports Master,Uva Province Province,Sports,Cricket,Shoes - Gray Nicolls,2
+12/08/2011 17:57,581451,17144,43,Male,Sports Master,Uva Province Province,Sports,Cricket,Shoes - Gray Nicolls,3
+12/08/2011 17:57,581451,17144,43,Male,Sports Master,Uva Province Province,Sports,Cricket,Shoes - Gray Nicolls,8
+12/08/2011 17:57,581451,17144,43,Male,Sports Master,Uva Province Province,Sports,Cricket,Other - Bail,2
+12/08/2011 17:57,581451,17144,43,Male,Sports Master,Uva Province Province,Sports,Cricket,Balls - Spartan Sports,3
+12/08/2011 17:57,581451,17144,43,Male,Sports Master,Uva Province Province,Sports,Cricket,Other Stump - Natural,3
+12/08/2011 17:57,581451,17144,43,Male,Sports Master,Uva Province Province,Sports,Cricket,Gloves & Pads - STANFORD,3
+12/08/2011 17:57,581451,17144,43,Male,Sports Master,Uva Province Province,Sports,Cricket,Shoes - Gray Nicolls,2
+12/08/2011 17:57,581451,17144,43,Male,Sports Master,Uva Province Province,Sports,Cricket,Bats - Sareen Sports,3
+12/08/2011 17:57,581451,17144,43,Male,Sports Master,Uva Province Province,Sports,Cricket,Other - Stump - Plastic,4
+12/08/2011 17:57,581451,17144,43,Male,Sports Master,Uva Province Province,Sports,Cricket,Bats - Beat All Sports,2
+12/08/2011 17:57,581451,17144,43,Male,Sports Master,Uva Province Province,Sports,Cricket,Bats - Beat All Sports,7
+12/08/2011 17:57,581451,17144,43,Male,Sports Master,Uva Province Province,Sports,Cricket,Gloves & Pads - YONEX,2
+12/08/2011 17:57,581451,17144,43,Male,Sports Master,Uva Province Province,Sports,Cricket,Balls - Spartan Sports,2
+12/08/2011 17:57,581451,17144,43,Male,Sports Master,Uva Province Province,Sports,Cricket,Other - Bail,2
+12/08/2011 17:57,581451,17144,43,Male,Sports Master,Uva Province Province,Sports,Cricket,Sports Bags - Nike,3
+12/08/2011 17:57,581451,17144,43,Male,Sports Master,Uva Province Province,Sports,Cricket,Bats - Beat All Sports,2
+12/08/2011 17:57,581451,17144,43,Male,Sports Master,Uva Province Province,Sports,Cricket,Gloves & Pads - STANFORD,4
+12/08/2011 17:57,581451,17144,43,Male,Sports Master,Uva Province Province,Sports,Cricket,Bats - Beat All Sports,5
+12/08/2011 17:57,581451,17144,43,Male,Sports Master,Uva Province Province,Sports,Cricket,Other Stump - Marigold,1
+12/08/2011 17:57,581451,17144,43,Male,Sports Master,Uva Province Province,Sports,Cricket,Shoes - Asicsl,1
+12/08/2011 17:57,581451,17144,43,Male,Sports Master,Uva Province Province,Sports,Cricket,Other - Stump -Wood,4
+12/08/2011 17:57,581451,17144,43,Male,Sports Master,Uva Province Province,Sports,Cricket,Balls - AVM,2
+12/08/2011 17:57,581451,17144,43,Male,Sports Master,Western Province,Sports,Cricket,Shoes - Asicsl,5
+12/08/2011 17:54,581450,16794,27,Male,Musician,Central Province,Sports,Cricket,Bats - Sanspariel Greenlands,2
+12/08/2011 17:54,581450,16794,27,Male,Musician,Central Province,Sports,Cricket,Gloves & Pads - KAY GEE,1
+12/08/2011 17:54,581450,16794,27,Male,Musician,Central Province,Sports,Cricket,Shoes - Asicsl,1
+12/08/2011 17:54,581450,16794,27,Male,Musician,Central Province,Sports,Cricket,Other Stump - Plastic,3
+12/08/2011 17:54,581450,16794,27,Male,Musician,Central Province,Sports,Cricket,Bats - Sanspariel Greenlands,2
+12/08/2011 17:54,581450,16794,27,Male,Musician,Central Province,Sports,Cricket,Other - Bail,2
+12/08/2011 17:54,581450,16794,27,Male,Musician,Central Province,Sports,Cricket,Sports Bags - Diesel,2
+12/08/2011 17:54,581450,16794,27,Male,Musician,Central Province,Sports,Cricket,Sports Bags - Puma,2
+12/08/2011 17:54,581450,16794,27,Male,Musician,Central Province,Sports,Cricket,Other Stump - Wood,4
+12/08/2011 17:54,581450,16794,27,Male,Musician,Central Province,Sports,Cricket,Bats - Gray-Nicolls,5
+12/08/2011 17:54,581450,16794,27,Male,Musician,Central Province,Sports,Cricket,Balls - AVM,2
+12/08/2011 17:54,581450,16794,27,Male,Musician,Central Province,Sports,Cricket,Other - Bail,3
+12/08/2011 17:54,581450,16794,27,Male,Musician,Central Province,Sports,Cricket,Shoes - Asicsl,4
+12/08/2011 17:54,581450,16794,27,Male,Musician,Central Province,Sports,Cricket,Other - Bail,3
+12/08/2011 17:54,581450,16794,27,Male,Musician,Central Province,Sports,Cricket,Bats -Beat All Sports,5
+12/08/2011 17:54,581450,16794,27,Male,Musician,Central Province,Sports,Cricket,Gloves & Pads - KAY GEE,4
+12/08/2011 17:54,581450,16794,27,Male,Musician,Central Province,Sports,Cricket,Sports Bags - Nike,2
+12/08/2011 17:54,581450,16794,27,Male,Musician,Central Province,Sports,Cricket,Bats - Gray-Nicolls,2
+12/08/2011 17:54,581450,16794,27,Male,Musician,Central Province,Sports,Cricket,Other Stump - Wood,3
+12/08/2011 17:54,581450,16794,27,Male,Musician,Central Province,Sports,Cricket,Balls - AVM,2
+12/08/2011 17:54,581450,16794,27,Male,Musician,Central Province,Sports,Cricket,Balls - DSCl,2
+12/08/2011 17:54,581450,16794,27,Male,Musician,Central Province,Sports,Cricket,Shoes - Asicsl,4
+12/08/2011 17:54,581450,16794,27,Male,Musician,Central Province,Sports,Cricket,Gloves & Pads - YONEX,3
+12/08/2011 17:54,581450,16794,27,Male,Musician,Central Province,Sports,Cricket,Other - Bail,1
+12/08/2011 17:54,581450,16794,27,Male,Musician,Central Province,Sports,Cricket,Bats - Spartan Sports,6
+12/08/2011 17:54,581450,16794,27,Male,Musician,Central Province,Sports,Cricket,Balls - DSCl,2
+12/08/2011 17:54,581450,16794,27,Male,Musician,Central Province,Sports,Cricket,Bats - Spartan Sports,2
+12/08/2011 17:54,581450,16794,27,Male,Musician,Central Province,Sports,Cricket,Gloves & Pads - KAY GEE,2
+12/08/2011 17:54,581450,16794,27,Male,Musician,Central Province,Sports,Cricket,Sports Bags - Nike,4
+12/08/2011 17:54,581450,16794,27,Male,Musician,Central Province,Sports,Cricket,Balls - DSCl,2
+12/08/2011 17:37,581449,12748,36,Female,Singer,Western Province,Sports,Cricket,Balls - SG,3
+12/08/2011 17:37,581449,12748,36,Female,Singer,Western Province,Sports,Cricket,Other - Stump,2
+12/08/2011 17:37,581449,12748,36,Female,Singer,Western Province,Sports,Cricket,Shoes - Adidas,3
+12/08/2011 17:37,581449,12748,36,Female,Singer,Western Province,Sports,Cricket,Gloves & Pads - STANFORD,3
+12/08/2011 17:37,581449,12748,36,Female,Singer,Western Province,Sports,Cricket,Bats - Spartan Sports,2
+12/08/2011 17:37,581449,12748,36,Female,Singer,Western Province,Sports,Cricket,Balls - DSCl,6
