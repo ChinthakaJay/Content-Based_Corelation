@@ -1,7 +1,8 @@
-from flask import Flask, request
+from flask import Flask, request, jsonify
 from flask_cors import CORS
 from flask_expects_json import expects_json
 
+from util import Recommender
 from util.config_loader import config
 from util.logger import get_logger
 
@@ -25,11 +26,14 @@ schema = {
 @expects_json(schema)
 def recommend_content():
     data = request.get_json()
-    # if "age" in data:
-
-    return "Success"
+    logger.info("Received api call, payload: %s", data)
+    if "age" in data:
+        result = Recommender.recommend_with_age(data['item'], data['gender'], data['age'])
+    else:
+        result = Recommender.recommend(data['item'], data['gender'])
+    return jsonify(result)
 
 
 if __name__ == '__main__':
     logger.info("Starting application using profile: %s", config['PROFILE']['name'])
-    app.run(host=config['SERVER']['host'], port=int(config['SERVER']['port']), debug=True)
+    app.run(host=config['SERVER']['host'], port=int(config['SERVER']['port']))
