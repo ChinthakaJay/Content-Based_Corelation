@@ -1,21 +1,28 @@
 from flask import Flask, request
 from flask_cors import CORS
-
-from content_recommendation import Content, recommendation
+from flask_expects_json import expects_json
 
 app = Flask(__name__)
 CORS(app)
 
+schema = {
+    "type": "object",
+    "properties": {
+        "item": {"type": "string"},
+        "age": {"type": "number"},
+        "gender": {"type": "string"}
+    },
+    "required": ["item", "gender"]
+}
+
 
 @app.route('/item_recommendation', methods=['POST'])
+@expects_json(schema)
 def recommend_content():
-    instance = request.get_json(silent=True)
-    text1 = instance["text1"]
-    text2 = instance["text2"]
-    text3 = instance["text3"]
-    content = Content(text1, text2, text3)
+    data = request.get_json()
+    if "age" in data:
 
-    return recommendation()
+    return "Success"
 
 
 if __name__ == '__main__':
